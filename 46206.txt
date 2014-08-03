@@ -1,0 +1,3143 @@
+The Project Gutenberg EBook of Ford Manual (1919), by Ford Motor Company
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Ford Manual (1919)
+       For Owners and Operators of Ford Cars and Trucks
+
+Author: Ford Motor Company
+
+Release Date: July 7, 2014 [EBook #46206]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK FORD MANUAL (1919) ***
+
+
+
+
+Produced by Giovanni Fini, Chris Curnow and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+
+
+
+
+
+
+
+[Illustration: Ford Logo]
+
+                             Contents
+
+                                                PAGE
+
+ Foreword                                          2
+
+ The Car and Its Operation                         3
+
+ The Ford Engine                                   9
+
+ The Ford Cooling System                          17
+
+ The Gasoline System                              21
+
+ The Ford Ignition System                         25
+
+ The Ford Transmission                            31
+
+ The Rear Axle Assembly                           37
+
+ The Ford Muffler                                 39
+
+ The Running Gear                                 40
+
+ The Ford Lubricating System                      46
+
+ Care of the Tires                                48
+
+ Points on Maintenance                            50
+
+ The Ford Model T One Ton Truck                   51
+
+ The Ford Starting and Lighting System            55
+
+ Summary of Engine Troubles and Their Causes      61
+
+ Index                                            62
+
+
+
+
+[Illustration: Ford The Universal Car]
+
+                            FORD MANUAL
+
+                     For Owners and Operators
+                      of Ford Cars and Trucks
+
+
+                         Copyrighted 1919
+                               _by_
+                        Ford Motor Company
+                        All rights reserved
+
+
+                          _Published by_
+                        FORD MOTOR COMPANY
+                    Detroit, Michigan, U. S. A.
+
+
+
+
+ Foreword
+
+
+ It is a significant fact that nearly all Ford cars are driven by
+ laymen--by owners, who in the great majority of cases have little
+ or no practical experience with things mechanical.
+
+ The simplicity of the Ford car and the ease with which it
+ is operated renders an intimate knowledge of mechanical
+ technicalities unnecessary for its operation.
+
+ And the further fact that there are more than twenty thousand Ford
+ service stations distributed throughout the civilized world--where
+ adjustments and repairs may be had with no annoying delay--gives
+ to Ford owners a singular freedom from mechanical annoyances
+ which beset owners of cars having limited service facilities and
+ distribution.
+
+ But while it is not imperative, it is, however, altogether
+ desirable that every Ford owner should thoroughly understand his
+ car. With such knowledge at his command he is always master of the
+ situation--he will maintain his car more economically--prolong its
+ usefulness--and he will also derive more pleasure from it, for it
+ is a truism that the more one knows about a thing the more one
+ enjoys it.
+
+ The mastery of a thorough knowledge of Ford construction is by no
+ means a difficult or time-consuming task. The Ford is the simplest
+ car made. It is easy to understand, and is not difficult to keep
+ in proper adjustment and repair.
+
+ That the Ford construction may be thoroughly understood--and
+ that there may be an authoritative guide for the making of Ford
+ adjustments--this book is published.
+
+
+ Important
+
+ _It is most important that owners of Ford cars shall insist upon
+ getting the genuine Ford-made materials, or "Parts," when having
+ repairs or replacements made. This will be assured when the car
+ is taken to the authorized Ford agent. Imitation, or "bogus" or
+ counterfeit parts of inferior quality are being made and sold as
+ "Ford Parts." Avoid their use by dealing with the authorised Ford
+ agent._
+
+
+
+
+ The Car and Its Operation
+
+
+ _What must be done before starting the Car?_         _Answer No. 1_
+
+ Before trying to start the car, fill the radiator (by removing cap
+ at top) with clean fresh water. If perfectly clean water cannot
+ be obtained it is advisable to strain it through muslin or other
+ similar material to prevent foreign matter from getting in and
+ obstructing the small tubes of the radiator. The system will hold
+ approximately three gallons. It is important that the car should
+ not be run under its own power unless the water circulating system
+ has been filled. Pour in the water until you are sure that both
+ radiator and cylinder water jackets are full. The water will run
+ out of the overflow pipe onto the ground when the entire water
+ system has been properly filled. During the first few days that a
+ new car is being driven it is a good plan to examine the radiator
+ frequently and see that it is kept properly filled. The water
+ supply should be replenished as often as may be found necessary.
+ Soft rain water, when it is to be had in a clean state, is
+ superior to hard water, which may contain alkalies and other salts
+ which tend to deposit sediment and clog the radiator. (See chapter
+ on Cooling System.)
+
+
+ _What about Gasoline?_                               _Answer No. 2_
+
+ The ten-gallon gasoline tank should be filled--nearly full--and
+ the supply should never be allowed to get low. When filling the
+ tank be sure that there are no naked flames within several feet,
+ as the vapor is extremely volatile and travels rapidly. Always
+ be careful about lighting matches near where gasoline has been
+ spilled, as the air within a radius of several feet is permeated
+ with the highly explosive vapor. The small vent hole in the
+ gasoline tank cap should not be allowed to get plugged up, as
+ this would prevent proper flow of the gasoline to the carburetor.
+ The gasoline tank may be drained by opening the pet cock in the
+ sediment bulb at the bottom.
+
+
+ _How about the Oiling System?_                      _Answer No. 3_
+
+ Upon receipt of the car see that a supply of medium light,
+ high-grade gas engine oil is poured into the crank case through
+ the breather pipe at the front of the engine (a metal cap covers
+ it). Down under the car in the flywheel casing (the reservoir
+ which holds this oil) you will find two pet cocks. Pour oil in
+ slowly until it runs out of the upper cock. Leave the cock open
+ until it stops running--then close it. After the engine has
+ become thoroughly limbered up, the best results will be obtained
+ by carrying the oil at a level midway between the two cocks--but
+ under no circumstances should it be allowed to get below the lower
+ cock. All other parts of the car are properly oiled when it leaves
+ the factory. However, it will be well to see that all grease cups
+ are filled and that oil is supplied to necessary parts. (See Cut
+ No. 18, also chapter on Lubrication.)
+
+
+ _How are Spark and Throttle Levers used?_           _Answer No. 4_
+
+Under the steering wheel are two small levers. The right-hand
+(throttle) lever controls the amount of mixture (gasoline and air)
+which goes into the engine. When the engine is in operation, the
+farther this lever is moved downward toward the driver (referred
+to as "opening the throttle") the faster the engine runs and the
+greater the power furnished. The left-hand lever controls the
+spark, which explodes the gas in the cylinders of the engine. The
+advancing of this lever "advances the spark," and it should
+be moved down notch by notch until the motor seems to reach its
+maximum speed. If the lever is advanced beyond this point a dull
+knock will be noticed in the engine. (See chapter on Ignition.)
+
+ [Illustration: Steering Wheel, showing reduction gears meshing
+ with the teeth of the gear case and center pinion. (Cut No. 1)]
+
+
+ _Where should these levers be when starting the Engine?_
+                                                      _Answer No. 5_
+
+ The spark lever should usually be put in about the third or fourth
+ notch of the quadrant (the notched half-circle on which the levers
+ operate). The throttle should usually be opened about five or
+ six notches. A little experience will soon teach you where these
+ levers should be placed for proper starting. Care should be taken
+ not to advance the spark lever too far, as the engine may "back
+ kick."
+
+
+ _What else is necessary before starting the Engine?_ _Answer No. 6_
+
+ First, see that the hand lever, which comes up through the floor
+ of the car at the left of the driver, is pulled back as far as it
+ will go. The lever in this position holds the clutch in neutral
+ and engages the hub brake, thus preventing the car moving forward
+ when the engine is started. Second, after inserting the switch key
+ in the switch on the coil box, throw the switch lever as far to
+ the left as it will go--to the point marked "magneto." This switch
+ connects the magneto with the engine. The engine can't be started
+ until it is on--and the throwing off of this switch stops the
+ engine.
+
+
+ _How is the Engine started?_                         _Answer No. 7_
+
+ If the car is not equipped with a starter the engine is started
+ by the lifting of the starting crank at the front of the car.
+ Take hold of the handle and push firmly toward the car till you
+ feel the crank ratchet engage, then lift upward with a quick
+ swing. With a little experience this operation wall become an
+ easy matter. Don't, as a usual thing, crank downward against the
+ compression--for then an early explosion may drive the handle
+ vigorously backward. This does not mean however, that it is not
+ advisable, when the car is hard to start, to occasionally "spin"
+ the engine by the use of the starting handle--but be sure the
+ spark lever is retarded when spinning or cranking the engine
+ against compression, otherwise a sudden backfire may injure the
+ arm of the operator. When the engine is cool it is advisable to
+ prime the carburetor by pulling on the small wire at the lower
+ left corner of the radiator while giving the engine two or three
+ quarter turns with the starting handle.
+
+ If the car is equipped with a starter the spark and throttle
+ levers should be placed in the same position on the quadrant as
+ when cranking by hand, and the ignition switch turned on. Current
+ from either battery or magneto may be used for ignition. However,
+ we recommend that the magneto be used at all times. The magneto
+ was designed to furnish ignition for the Model T engine and
+ better results will be obtained by operating in this way. Special
+ attention must be paid to the position of the spark lever as a
+ too advanced spark will cause serious backfiring which in turn
+ will bend or break the shaft in the starter. The starting motor is
+ operated by a push button, conveniently located in the floor of
+ the car at the driver's feet. With the spark and throttle levers
+ in the proper position, and the ignition switch turned on, press
+ on the push button with the foot. This closes the circuit between
+ the battery and starting motor, causing the pinion of the Bendix
+ drive shaft to engage with the teeth on the flywheel, thus turning
+ over the crankshaft. When the engine is cold it may be necessary
+ to prime it by pulling out the carburetor priming rod, which is
+ located on the instrument board. In order to avoid flooding the
+ engine with an over rich mixture of gas, the priming rod should
+ only be held out for a few seconds at a time.
+
+
+ _How is the Engine best started in cold weather?_    _Answer No. 8_
+
+ As gasoline does not vaporize readily in cold weather it is
+ naturally more difficult to start the motor under such conditions.
+ The usual method of starting the engine when cold is to turn
+ the carburetor dash adjustment one-quarter turn to the left in
+ order to allow a richer mixture of gasoline to be drawn into the
+ cylinders; then hold out the priming rod, while you turn crank
+ from six to eight one-quarter turns in quick succession, or turn
+ the motor over a few times with the starter. Another method of
+ starting a troublesome cold engine is as follows: Before you throw
+ on the magneto switch, (1) close throttle lever; (2) hold out
+ priming rod while you give crank several quick turns, or turn the
+ motor over a few times with the starter, then let go of priming
+ rod (being careful that it goes back all the way); (3) place spark
+ lever in about third notch and advance throttle lever several
+ notches; (4) throw on switch (being sure to get it on side marked
+ "Magneto"); (5) give crank one or two turns, or close the starting
+ switch, and the motor should start. After starting the motor it
+ is advisable to advance the spark eight or ten notches on the
+ quadrant and let the motor run until thoroughly heated up. If you
+ start out with a cold motor you will not have much power and are
+ liable to "stall." The advantage of turning on the switch last, or
+ after priming, is that when you throw on the switch and start the
+ motor, you have plenty of gas in the cylinders, to keep the motor
+ running, thereby eliminating the trouble of the motor starting and
+ stopping. After motor is warmed up turn carburetor adjustment back
+ one-quarter turn.
+
+ To facilitate starting many drivers make a practice of stopping
+ their engine by pulling out on the priming rod, which has the
+ effect of shutting off the air suction and filling the cylinders
+ full of a very rich gasoline vapor. This should not be done unless
+ the car is going to stand over night or long enough to cool off.
+ If the motor is stopped in this way and then started when hot,
+ starting is apt to be difficult on account of the surplus gasoline
+ in the carburetor.
+
+
+ _What function does the Hand Lever perform?_         _Answer No. 9_
+
+ Its chief purpose is to hold the clutch in neutral position. If it
+ were not for this lever the driver would have to stop the engine
+ whenever he left the driver's seat. He would also be unable to
+ crank the engine without the car starting forward with the first
+ explosion. When pulled back as far as it will go, the hand lever
+ acts as an emergency brake on the rear wheels, by expanding the
+ brake shoes in the rear wheel drums. Therefore the hand lever
+ should be back as far as it will go when cranking the engine or
+ when the car is at rest. It should be only in a vertical position,
+ and not far enough backward to act as a brake on the rear wheels,
+ when the car is to be reversed. When the car is operating in high
+ or low speed the hand lever should be all the way forward.
+
+
+ _How do the Foot Pedals operate?_                   _Answer No. 10_
+
+ The first one toward the left operates the clutch. When pressed
+ forward the clutch pedal engages the low speed. When half-way
+ forward the clutch is in neutral (i. e., disconnected from the
+ driving mechanism of the rear wheels), and the releasing of this
+ pedal engages the high-speed clutch. The center pedal operates the
+ reverse. The right-hand pedal operates the transmission brake.
+
+
+ _How is the Car started?_                           _Answer No. 11_
+
+ Slightly accelerate the engine by opening the throttle, press
+ the clutch pedal half way forward, thereby holding the clutch in
+ a neutral position while throwing the hand lever forward; then
+ press the pedal forward into slow speed and when under sufficient
+ headway (20 to 30 feet), allow the pedal to drop back slowly into
+ high speed, at the same time partially closing the throttle,
+ which will allow the engine to pick up its load easily. With a
+ little practice, the change of speeds will be easily accomplished,
+ and without any appreciable effect on the smooth running of the
+ machine.
+
+
+ _How is the Car stopped?_                           _Answer No. 12_
+
+ Partially close the throttle; release the high speed by pressing
+ the clutch pedal forward into neutral; apply the foot brake slowly
+ but firmly until the car comes to a dead stop. Do not remove foot
+ from the clutch pedal without first pulling the hand lever back
+ to neutral position, or the engine will stall. To stop the motor,
+ open the throttle a trifle to accelerate the motor and then throw
+ off the switch. The engine will then stop with the cylinders full
+ of explosive gas, which will naturally facilitate starting.
+
+ Endeavor to so familiarize yourself with the operation of the
+ car that to disengage the clutch and apply the brake becomes
+ practically automatic--the natural thing to do in case of
+ emergency.
+
+
+ _How is the Car reversed?_                          _Answer No. 13_
+
+ It must be brought to a dead stop. With the engine running,
+ disengage the clutch with the hand lever and press the reverse
+ pedal forward with the left foot, the right foot being free to use
+ on the brake pedal if needed. Do not bring the hand lever back too
+ far or you will set the brakes on rear wheels. Experienced drivers
+ ordinarily reverse the car by simply holding the clutch pedal in
+ neutral with the left foot, and operating the reverse pedal with
+ the right.
+
+
+ _How is the Spark controlled?_                      _Answer No. 14_
+
+ By the left-hand lever under the steering wheel. Good operators
+ drive with the spark lever advanced just as far as the engine will
+ permit. However, advancing the spark too far will cause a dull
+ knock in the motor, due to the fact that the explosion occurs too
+ early. The spark should only be retarded when the engine slows
+ down on a heavy road or steep grade, but care should be exercised
+ not to retard the spark too far as this will result in late
+ ignition, which causes loss of power and overheating of the motor
+ and may also result in warped, burned or cracked valves. Learn to
+ operate the spark as the occasion demands. The greatest economy
+ in gasoline consumption is obtained by driving with the spark
+ advanced sufficiently to obtain the maximum speed.
+
+
+ _How is speed of Car controlled?_                   _Answer No. 15_
+
+ The different speeds required to meet road conditions are obtained
+ by opening or closing the throttle. Practically all the running
+ speeds needed for ordinary travel are obtained on high gear, and
+ it is seldom necessary to use the low gear except to give the car
+ momentum in starting. The speed of the car may be temporarily
+ slackened in driving through crowded traffic, turning corners,
+ etc., by "slipping the clutch," i. e., pressing the clutch pedal
+ forward into neutral.
+
+
+ _Is it advisable for owners to make their own Adjustments?_
+                                                     _Answer No. 16_
+
+ The Ford is the simplest of all cars. Most of the ordinary
+ adjustments an owner will soon learn to make for himself. But
+ we must strongly recommend that when it becomes necessary
+ to employ the services of a mechanic, the car be taken to a
+ Ford mechanic--one of our own representatives who thoroughly
+ understands the car--and who will have no motive for running up
+ useless repair bills. The entire Ford organization is interested
+ in keeping every individual Ford car in constant operation, at the
+ lowest possible cost. We have known of much damage done to many
+ cars by unskilled repair men.
+
+
+ _What attention does the Car need?_                 _Answer No. 17_
+
+ Remember that a new machine requires more careful attention during
+ the first few days it is being driven than after the parts have
+ become thoroughly "worked in." The car which is driven slowly and
+ carefully when new usually gives the most satisfactory service in
+ the end. Never start out with your car until you are sure that
+ is has plenty of oil and water. Frequently inspect the running
+ gear. See that no unnecessary play exists in either front or rear
+ wheels, and that all bolts and nuts are tight. Make a practice of
+ taking care of every repair or adjustment as soon as its necessity
+ is discovered. This attention requires but little time and may
+ avoid delay or possible accident on the road. We aim to deliver
+ the car in proper mechanical adjustment. Afterwards it is plainly
+ the duty of the driver to keep it in that condition.
+
+
+
+
+ The Ford Engine
+
+
+ _What is the principle of the gasoline-driven Engine?_
+                                                     _Answer No. 18_
+
+ Gasoline when mixed with air and compressed is highly explosive.
+ An explosion is a violent expansion caused by instantaneous
+ combustion of confined gases. In the gasoline engine the mixture
+ is drawn into a cylinder, where it is compressed by an advancing
+ piston and then exploded by an electric spark, which sends the
+ piston downward, and through the connecting rod imparts a rotary
+ motion to the crankshaft. (See Cut No. 2.)
+
+
+ _What are the functions of the Pistons?_            _Answer No. 19_
+
+ On the downward stroke the suction of the piston draws the fresh
+ gas from the carburetor, through the inlet pipe and valve, into
+ the cylinder. The upward movement of the piston compresses the
+ gas into a very small space, between the top of the piston and
+ the depression in the cylinder head, known as the "combustion
+ chamber." (The compressed gases exert a pressure of approximately
+ 60 pounds per square inch.) At this point the electric spark,
+ generated by the magneto, explodes the gases--driving the piston
+ downward--thus producing the power which turns the crank shaft.
+ On the next stroke upward the piston drives the exploded gas out
+ through the exhaust valve and pipe to the muffler. (See Cut No. 3.)
+
+
+ _Connecting Rod--how removed?_                      _Answer No. 20_
+
+ It is a steel rod, connecting piston and crank shaft. Should the
+ babbitt bearing become worn, or burned out through lack of oil,
+ a knocking in the engine will result in which case the entire
+ connecting rod should be replaced. To make this replacement,
+ (1) drain oil from crank case; (2) take off cylinder head; (3)
+ remove detachable plate on bottom of crank case; (4) disconnect
+ connecting rod from crank shaft; (5) take piston and rod out
+ through top of cylinder.
+
+
+ _What is the Valve Arrangement?_                    _Answer No. 21_
+
+ One intake and one exhaust valve are located in each cylinder.
+ The former admits the fresh gas drawn from the carburetor through
+ the inlet pipe--the latter permits the exploded gas to be driven
+ out through the exhaust pipe. The valves are alternately opened
+ and closed (see Cut No. 3) by the cams on the cam shaft striking
+ against push rods which in turn lift the valves from their seats.
+
+
+ _What about Valve timing?_                          _Answer No. 22_
+
+ In timing the engine the points of opening and closing of the
+ valves are, of course, what should be considered. As the valves
+ are properly timed at the factory when the engine is built the
+ necessity for retiming would occur only when such parts as the cam
+ shaft, time gears or valves were removed in overhauling the engine.
+
+ [Illustration: Sectional View of the Model T Motor. (Cut No. 2)]
+
+ [Illustration: Cylinder Assembly, showing the correct position of
+ the valves with time gears properly set according to punch marks
+ on the gears, also the relative position of the pistons in their
+ strokes as indicated above. The firing order of the cylinders is
+ 1, 2, 4, 3. (Cut No. 3)]
+
+ In fitting the large time gear to the cam shaft it is important to
+ see that the first cam points in a direction opposite to the zero
+ mark (see Cut No. 3). The time gears must also mesh so that the
+ tooth marked zero (0) on the small time gear will come between the
+ two teeth on the large gear at the zero point. The time gears now
+ being properly set, the exhaust valve on No. 1 cylinder is open and
+ the intake valve closed, the other valves being in the position
+ indicated in Cut No. 3. The opening and closing of the valves being
+ as follows: The exhaust valve opens when the piston reaches 5/16"
+ of bottom center, the distance from the top of the piston head to
+ the top of cylinder casting measuring 3-3/8". The exhaust valve will
+ close on top centre, the piston being 5/16" above the cylinder
+ casting. The intake valve opens 1/16" after top center, and closes
+ 9/16" after bottom center, the distance from the top of the piston
+ to the top of the cylinder casting measuring 3-1/8".
+
+ [Illustration: How the valve lifting tool should be used. (Cut No. 4)]
+
+ The clearance between the push rod and valve stem should never be
+ greater than 1/32" nor less than 1/64". The correct clearance is
+ naturally half way between these two measurements. The gap should
+ be measured when the push rod is on the heel of the cam.
+
+
+ _What about the care of the Valves?_                _Answer No. 23_
+
+ They seldom get out of order--but they do get dirty, as a result
+ of carbon collecting on the valve seats. These carbon deposits by
+ preventing proper closing of the valves, permit the gases under
+ compression to escape, resulting in loss of power and uneven
+ running of the motor. If, when turning the engine over slowly,
+ there is a lack of resistance in one or more cylinders, it is
+ probable that the valves need re-grinding. As the "life" of the
+ engine depends largely upon the proper seating of the valves, it
+ is necessary that they be ground occasionally.
+
+
+ _How are Valves removed for grinding?_              _Answer No. 24_
+
+ (1) Drain radiator; (2) remove cylinder head; (3) remove the two
+ valve covers on the right side of engine; (4) raise the valve
+ spring with lifting tool (see Cut No. 4) and pull out the little
+ pin under the valve seat. The valve may then be lifted out by the
+ head.
+
+
+ _How are Valves ground?_                            _Answer No. 25_
+
+ For this work use a good grinding paste of ground glass and
+ oil--procurable from auto supply houses. A convenient way is to
+ put a small amount in a suitable dish, adding a spoonful or two of
+ kerosene and a few drops of lubricating oil to make a thin paste.
+
+ [Illustration: Method of grinding valve. (Cut No. 5)]
+
+ Place the mixture sparingly on the bevel face of the valve. Put
+ the valve in position on the valve seat, and rotate it back and
+ forth (about a quarter turn) a few times, with a Ford grinding
+ tool. Then lift slightly from the seat, change the position and
+ continue the rotation, and keep on repeating this operation until
+ the bearing surface is smooth and bright. The valve should not
+ be turned through a complete revolution, as this is apt to cause
+ scratches running around the entire circumference of the valve and
+ seat. When the grinding is completed the valve should be removed
+ from the cylinder, thoroughly washed with kerosene, and the valve
+ seat wiped out thoroughly. Extreme care should be taken that no
+ abrasive substance gets into the cylinders or valve guides. This
+ can be avoided if the grinding paste is applied sparingly to
+ the bevel face of the valve. If the valve seat is worn badly or
+ seamed, it is best to have it reseated with a valve seating tool.
+ This operation requires considerable skill, and perhaps had better
+ be done by an expert mechanic. Care should be exercised against
+ making too deep a cut, necessitating the retiming of the valve.
+
+ _When the Valves and Push Rods are worn--what?_     _Answer No. 26_
+
+ When the valves or push rods become worn, so as to leave too
+ much play between them, thus reducing the lift of the valves and
+ diminishing the power of the motor, it is best to replace the push
+ rods with new ones. The clearance between the push rods and the
+ valve stem should never be greater than 1/32" nor less than 1/64".
+ If the clearance is greater, the valve will open late and close
+ early, resulting in uneven running of the motor. If the clearance
+ is less than 1/64" there is danger of the valve remaining
+ partially open all the time. If replacing the push rod does not
+ give the proper clearance, the valve should also be replaced. We
+ do not recommend drawing out the valve stem, as the operation
+ requires experience and the price of the new part does not warrant
+ the time and expense necessary to properly do the work.
+
+
+ _What about the Valve Springs?_                     _Answer No. 27_
+
+ When the valves fail to seat themselves properly, there is a
+ possibility that the springs may be weak or broken. A weak inlet
+ spring would probably not affect the running of the engine, but
+ weakness in the exhaust valve spring causes a very uneven action,
+ which is difficult to locate. The symptoms area lag in the engine
+ due to the exhaust valve not closing instantaneously, and as
+ a result a certain percentage of the charge under compression
+ escapes, greatly diminishing the force of the explosion. Weakness
+ in a valve spring can usually be detected by the following method:
+ Remove the plate which encloses them at the side of the cylinder
+ and insert a screw driver between the coils of the spring while
+ the engine is running. If the extra tension thus produced causes
+ the engine to pick up speed, the spring is obviously weak and
+ should be replaced with a new one.
+
+
+ _What cause "Knocking" in the Engine?_              _Answer No. 28_
+
+ There are several causes, which may be enumerated as follows: (1)
+ carbon knock--which is by far the most common--resulting from
+ carbonizing of cylinders; (2) knock caused by a too advanced
+ spark; (3) connecting rod knock; (4) crank shaft main bearing
+ knock; (5) knock due to loose-fitting piston or broken ring; (6)
+ knock caused by the piston striking the cylinder head gasket.
+ When the engine knocks from any cause whatsoever, the matter
+ should be promptly investigated by an experienced mechanic and the
+ difficulty corrected.
+
+
+ _How may the different Knocks be distinguished?_    _Answer No. 29_
+
+ (1) The carbon knock is a clear, hollow sound, most noticeable in
+ climbing sharp grades, particularly when the engine is heated.
+ It is also indicated by a sharp rap immediately on advancing the
+ throttle. (2) Too advanced spark will be indicated by a dull knock
+ in the motor. (3) The connecting rod knock sounds like the distant
+ tapping of steel with a small hammer, and is readily distinguished
+ when the car is allowed to run idly down grade--or upon speeding
+ the car to twenty-five miles an hour, then suddenly closing the
+ throttle, the tapping will be very distinct. (4) The crank shaft
+ main bearing knock can be distinguished, when the car is going
+ uphill, as a dull thud. (5) The loose piston knock is heard only
+ upon suddenly opening the throttle, when the sound produced might
+ be likened to a rattle. The remedies for these knocks are treated
+ under their proper division.
+
+
+ _How is carbon removed from Combustion Chamber?_    _Answer No. 30_
+
+ First, drain the water off by opening the pet cock at the bottom
+ of the radiator; then disconnect the wires at the top of the motor
+ and also the radiator connection attached to the radiator. Remove
+ the 15 cap screws which hold the cylinder head in place. Take off
+ the cylinder head and, with a putty knife or screw driver, scrape
+ the carbonized matter from the cylinder head and top of pistons,
+ being careful to prevent the specks of carbon from getting into
+ the cylinders or bolt holes. In replacing the cylinder head gasket
+ turn the motor over so that No. 1 and No. 4 pistons are at top
+ center; place the gasket in position over the pistons and then put
+ the cylinder head in place. Be sure and draw the cylinder head
+ bolts down evenly (i. e., give each bolt a few turns at a time);
+ do not tighten them on one end before drawing them up at the other.
+
+
+ _How are Spark Plugs cleaned?_                      _Answer No. 31_
+
+ After removing the plug from the engine the points may be cleaned
+ with an old tooth-brush dipped in gasoline. However, in order to
+ do the work thoroughly, the plug should be taken apart by securing
+ the large hexagon steel shell in a vise and loosening the pack nut
+ which holds the porcelain in place. The carbon deposits can then
+ be easily removed from the porcelain and shell with a small knife.
+ Care should be exercised not to scrape off the glazed surface of
+ the porcelain, otherwise it will be apt to carbonize quickly. The
+ porcelain and other parts should finally be washed in gasoline and
+ wiped dry with a cloth.
+
+ In assembling the plug care should be taken to see that the pack
+ nut is not tightened too much so as to crack the porcelain, and
+ the distance between the sparking points should be 1/32", about
+ the thickness of a smooth dime.
+
+ Dirty plugs usually result from an excess of oil being carried in
+ the crank case--or from using oil of poor quality.
+
+
+ _How is the Power Plant removed from the Car?_      _Answer No. 32_
+
+ (1) Drain the water out of the radiator and disconnect the
+ radiator hose;
+
+ (2) disconnect the radiator stay rod which holds it to the dash;
+
+ (3) take out the two bolts which fasten the radiator to the frame
+ and take radiator off;
+
+ (4) disconnect the dash at the two supporting brackets which rest
+ on the frame;
+
+ (5) loosen the steering post bracket, fastened to the frame, when
+ the dash and steering gear may be removed as one assembly--the
+ wires first having been disconnected;
+
+ (6) take out the bolts holding the front radius rods in the socket
+ underneath the crank case;
+
+ (7) remove the four bolts at the universal joint;
+
+ (8) remove pans on either side of cylinder casting and turn off
+ gasoline, disconnect feed pipe from carburetor;
+
+ (9) disconnect exhaust manifold from exhaust pipe by unscrewing
+ large brass pack nut;
+
+ (10) take out the two cap screws which hold the crank case to the
+ front frame;
+
+ (11) remove the bolts which hold the crank case arms to the frame
+ at the side. Then pass a rope through the opening between the two
+ middle cylinders and tie in a loose knot. Through the rope pass
+ a "2x4," or a stout iron pipe about ten feet long, and let a man
+ hold each end; let a third man take hold of the starting crank
+ handle, when the whole power plant can be lifted from the car to
+ the work bench for adjustment.
+
+
+ _Connecting Rod Bearings--how adjusted?_            _Answer No. 33_
+
+ Connecting rod bearings may be adjusted, without taking out the
+ engine, by the following method: (1) drain off the oil; (2) remove
+ plate on bottom of crank case--exposing connecting rods; (3) take
+ off first connecting rod cap, and draw-file the ends--a very
+ little at a time; (4) replace cap, being careful to see that file
+ marks correspond, and tighten bolts until it fits shaft snugly;
+ (5) test tightness of bearing by turning engine over by the
+ starting handle. Experienced mechanics usually determine when the
+ bearing is properly fitted by lightly tapping each side of the cap
+ with a hammer; (6) then loosen the bearing and proceed to fit the
+ other bearings in the same manner; (7) after each bearing has been
+ properly fitted and tested--then tighten the cap bolts and the
+ work is finished.
+
+ Remember, there is a possibility of getting the bearings too
+ tight, and under such conditions the babbitt is apt to cut out
+ quickly, unless precaution is taken to run the motor slowly at the
+ start. It is a good plan after adjusting the bearings to jack up
+ the rear wheels and let the motor run slowly for about two hours
+ (keeping it well supplied with water and oil) before taking it out
+ on the road. Whenever possible these bearings should be fitted by
+ an expert Ford mechanic.
+
+ Worn connecting rods may be returned, prepaid, to the nearest
+ dealer or branch house for exchange at a price of $1.00 each
+ to cover the cost of rebabbitting. It is not advisable for any
+ owner or repair shop to attempt the rebabbitting of connecting
+ rods or main bearings, for without a special jig in which to form
+ the bearings, satisfactory results will not be obtained. The
+ constant tapping of a loose connecting rod on the crank shaft will
+ eventually produce crystallization of the steel--result, broken
+ crank shaft and possibly other parts of the engine damaged.
+
+
+ _Crank Shaft Main Bearings--how adjusted?_          _Answer No. 34_
+
+ Should the stationary bearings in which the crank shaft revolves
+ become worn (evidenced by a pounding in the motor) and need
+ replacing or adjusting, proceed as follows:
+
+ (1) After the engine has been taken out of the car, remove crank
+ case, transmission cover, cylinder head, pistons, connecting rods,
+ transmission and magneto coils. Take off the three babbitted caps
+ and clean the bearing surfaces with gasoline. Apply Prussian blue
+ or red lead to the crank shaft bearing surfaces, which will enable
+ you, in fitting the caps, to determine whether a perfect bearing
+ surface is obtained.
+
+ (2) Place the rear cap in position and tighten it up as much as
+ possible without stripping the bolt threads. When the bearing has
+ been properly fitted, the crank shaft can be turned with one hand.
+ If the crank shaft cannot be turned with one hand, the contact
+ between the bearing surfaces is evidently too close, and the
+ cap requires shimming up, one or two brass liners usually being
+ sufficient. In case the crank shaft moves too easily with one
+ hand, the shims should be removed and the steel surface of the cap
+ filed off, permitting it to set closer.
+
+ (3) After removing the cap, observe whether the blue or red
+ "spottings" indicate a full bearing the length of the cap. If
+ "spottings" do not show a true bearing, the babbitt should be
+ scraped and the cap refitted until the proper results are obtained.
+
+ (4) Lay the rear cap aside and proceed to adjust the center
+ bearing in the same manner. Repeat the operation with the front
+ bearing, with the other two bearings laid aside.
+
+ (5) When the proper adjustment of each bearing has been obtained,
+ clean the babbitt surface carefully and place a little lubricating
+ oil on the bearings, also on the crank shaft; then draw the caps
+ up as closely as possible--the necessary shims, of course, being
+ in place. Do not be afraid of getting the cap bolts too tight, as
+ the shim under the cap and the oil between the bearing surfaces
+ will prevent the metal being drawn into too close contact. If oil
+ is not put on the bearing surfaces, the babbitt is apt to cut out
+ when the motor is started up before the oil in the crank case can
+ get into the bearing. In replacing the crank case and transmission
+ cover on the motor, it is advisable to use a new set of gaskets to
+ prevent oil leaks.
+
+
+
+
+ The Ford Cooling System
+
+
+ _How is the Engine cooled?_                         _Answer No. 35_
+
+ The heat generated by the constant explosions in the engine would
+ soon overheat and ruin the engine, were it not cooled by some
+ artificial means. The Ford engine is cooled by the circulation
+ of water in jackets around the cylinders. The heat is extracted
+ from the water by its passing through the thin metal tubing of the
+ radiator--to which are attached scientifically worked out fins,
+ which assist in the rapid radiation of the heat. The fan, just
+ back of the radiator, sucks the air around the tubing--around
+ which the air is also driven by the forward movement of the
+ car. The belt should be inspected frequently and tightened when
+ necessary--not too tight, however--by means of the adjusting screw
+ in the fan bracket. Take up the slack till the fan starts to bind
+ when turned by hand.
+
+
+ _How does the Water circulate?_                     _Answer No. 36_
+
+ The cooling apparatus of the Ford car is known as the
+ Thermo-syphon system. It acts on the principle that hot water
+ seeks a higher level than cold water--consequently when the water
+ reaches a certain heat, approximately 180 degrees Fahrenheit,
+ circulation commences and the water flows from the lower radiator
+ outlet pipe up through the water jackets, into the upper radiator
+ water tank, and down through the tubes to the lower tank, to
+ repeat the process.
+
+
+ _What are the causes of Overheating?_               _Answer No. 37_
+
+ (1) Carbonized cylinders; (2) too much driving on low speed; (3)
+ spark retarded too far; (4) poor ignition; (5) not enough or poor
+ grade oil; (6) racing motor; (7) clogged muffler; (8) improper
+ carburetor adjustment; (9) fan not working properly on account of
+ broken or slipping belt; (10) improper circulation of water due to
+ clogged or jammed radiator tubes, leaky connections or low water.
+
+
+ _What should be done when the Radiator overheats?_  _Answer No. 38_
+
+ Keep the radiator full. Don't get alarmed if it boils
+ occasionally--especially in driving through mud and deep sand or
+ up long hills in extremely warm weather. Remember that the engine
+ develops the greatest efficiency when the water is heated nearly
+ to the boiling point. But if there is persistent overheating when
+ the motor is working under ordinary conditions--find the cause of
+ the trouble and remedy it. The chances are that the difficulty
+ lies in improper driving or carbonized cylinders. Perhaps twisting
+ the fan blades at a greater angle to produce more suction may
+ bring desired results. By reference to the proper division of this
+ book each of the causes which contribute to an overheated radiator
+ is treated and remedies suggested. No trouble can result from the
+ filling of a heated radiator with cold water--providing the water
+ system is not entirely empty--in which case the motor should be
+ allowed to cool before the cold water is introduced.
+
+
+ _How about cleaning the Radiator?_                  _Answer No. 39_
+
+ The entire circulating system should be thoroughly flushed out
+ occasionally. To do this properly, the radiator inlet and outlet
+ hose should be disconnected, and the radiator flushed out by
+ allowing the water to enter the filler neck at ordinary pressure,
+ from whence it will flow down through the tubes and out at the
+ drain cock and hose. The water jackets can be flushed out in the
+ same manner. Simply allow the water to enter into the cylinder
+ head connection and to flow through the water jackets and out at
+ the side inlet connection.
+
+ [Illustration: The Thermo-Syphon Cooling System, showing course
+ of water through water passages. (Cut No. 6)]
+
+
+ _Will the Radiator freeze in winter?_               _Answer No. 40_
+
+ Yes, unless an anti-freezing solution is used in the circulating
+ system you are bound to experience trouble. As the circulation
+ does not commence until the water becomes heated, it is apt to
+ freeze at low temperature before it commences to circulate. In
+ case any of the radiator tubes happen to be plugged or jammed they
+ are bound to freeze and burst open if the driver undertakes to get
+ along without using a non-freezing solution. Wood or denatured
+ alcohol can be used to good advantage. The following table gives
+ the freezing points of solutions containing different percentages
+ of alcohol:
+
+  20% solution freezes at 15 degrees above zero.
+  30% solution freezes at 8 degrees below zero,
+  50% solution freezes at 34 degrees below zero.
+
+ A solution composed of 60% water, 10% glycerine and 30% alcohol is
+ commonly used, its freezing point being about 8 degrees below zero.
+
+ On account of evaporation fresh alcohol must be added frequently
+ in order to maintain the proper solution.
+
+
+ _How are leaks and jams in the Radiator repaired?_  _Answer No. 41_
+
+ A small leak may be temporarily repaired by applying brown soap or
+ white lead--but the repair should be made permanent with solder as
+ soon as possible. A jammed radiator tube is a more serious affair.
+ While the stopping of one tube does not seriously interfere
+ with the circulation, it is bound to cause trouble sooner or
+ later--and the tube will freeze in cold weather. Cut the tube an
+ inch above and below the jam and insert a new piece, soldering the
+ connections. If the entire radiator is badly jammed or broken it
+ would probably be advisable to install a new one.
+
+ [Illustration: This cut illustrates the principle of Ford
+ Carburetion. (Cut No. 7)]
+
+
+
+
+ The Gasoline System
+
+
+ _The Carburetor--how does it work?_                 _Answer No. 42_
+
+ The carburetor is of the automatic float feed type, having but
+ one adjustment--the gasoline needle valve. The cross-section
+ diagram of carburetor on page 20 shows how the gasoline enters the
+ carburetor, is vaporized by a current of air and passes through
+ the inlet pipe to the engine in the form of an explosive mixture.
+ The gasoline, entering the bowl of the carburetor, gradually
+ raises the float to a point where the inlet needle is forced
+ upwards into its seat, thus cutting off the flow of gasoline. As
+ the gasoline in the bowl recedes, the float lowers, allowing the
+ needle to drop from its seat and the flow of gasoline is resumed.
+ It is plain to see that a constant level of gasoline is maintained
+ in the carburetor by the automatic action of float and needle.
+ The quantity of gasoline entering into the mixture is governed by
+ the needle valve (see Answer No. 45). The volume of gas mixture
+ entering the intake pipe is controlled by opening and closing the
+ throttle, according to the speed desired by the driver.
+
+
+ _Why is Carburetor adjustment placed on the dash?_  _Answer No. 43_
+
+ For the convenience of the driver in adjusting the carburetor.
+ After the new car has become thoroughly worked in, the driver
+ should observe the angle of the carburetor adjusting rod at
+ which the engine runs most satisfactorily. In cold weather it
+ will probably be found necessary to turn the dash adjustment
+ one-quarter turn to the left, particularly in starting a cold
+ engine. As gasoline vaporizes readily in warm weather, the driver
+ will find it economical to reduce the quantity of gasoline in the
+ mixture by turning the carburetor adjustment to the right as far
+ as possible without reducing speed. This is particularly true when
+ taking long drives where conditions permit a fair rate of speed
+ being maintained, and accounts for the excellent gasoline mileage
+ obtained by good drivers.
+
+
+ _What is meant by a "lean" and a "rich" Mixture?_   _Answer No. 44_
+
+ A lean mixture has too much air and not enough gasoline. A rich
+ mixture has too much gasoline and not enough air. A rich mixture
+ will not only quickly cover the cylinders, pistons and valves with
+ carbon, but will tend to overheat the cylinders, and is likewise
+ wasteful of the fuel. It will often choke the engine and cause
+ misfiring at slow speeds, although at high speeds the machine will
+ run perfectly. The mixture should be kept as lean as possible
+ without the sacrifice of any of the power of the motor. A lean
+ mixture will often result in backfiring through the carburetor,
+ for the reason that the gas burns slowly in the cylinder, and is
+ still burning when the inlet valve opens again, which causes the
+ gas in the intake to ignite. A rich mixture is shown by heavy,
+ black exhaust smoke with a disagreeable smell. Proper mixture will
+ cause very little smoke or odor.
+
+
+ _How is the Carburetor adjusted?_                   _Answer No. 45_
+
+ The usual method of regulating the carburetor is to start the
+ motor, advancing the throttle lever to about the sixth notch,
+ with the spark retarded to about the fourth notch. The flow of
+ gasoline should now be cut off by screwing the needle valve down
+ to the right until the engine begins to misfire, then gradually
+ increase the gasoline feed by opening the needle valve until the
+ motor picks up and reaches its highest speed and no trace of black
+ smoke comes from the exhaust. Whenever it is necessary to turn the
+ adjusting needle down more than a quarter turn below its normal
+ position, the lock nut on top of the carburetor at the point
+ through which needle passes should first be loosened, as otherwise
+ it is impossible to tell when the needle is turned down in its
+ seat too far. Turning the needle down too tightly will result
+ in its becoming grooved and the seat enlarged. When these parts
+ are damaged it is difficult to maintain proper adjustment of the
+ carburetor. Having determined the point where the motor runs at
+ its maximum speed, the needle valve lock nut should be tightened
+ to prevent the adjustment being disturbed. For average running, a
+ lean mixture will give better results than a rich one.
+
+
+ _Why does water clog the Carburetor?_               _Answer No. 46_
+
+ The presence of water in the carburetor or gasoline tank, even
+ in small amounts, will prevent easy starting and the motor will
+ misfire and stop. As water is heavier than gasoline it settles
+ to the bottom of the tank and into the sediment bulb along with
+ other foreign matter. As it is difficult nowadays to get gasoline
+ absolutely free from impurities, especially water, it is advisable
+ to frequently drain the sediment bulb under the gasoline tank.
+ During cold weather the water which accumulates in the sediment
+ bulb is likely to freeze and prevent the flow of gasoline through
+ the pipe leading to the carburetor. Should anything of this kind
+ happen it is possible to open the gasoline line by wrapping a
+ cloth around the sediment bulb and keeping it saturated with hot
+ water for a short time. Then the water should be drained off. In
+ event the water gets down into the carburetor and freezes, the
+ same treatment may be applied.
+
+
+ _What makes the Carburetor leak?_                   _Answer No. 47_
+
+ The flow of gasoline entering the carburetor through the feed
+ pipe is automatically regulated by the float needle raising and
+ lowering in its seat. Should any particle of dirt become lodged
+ in the seat, which prevents the needle from closing, the gasoline
+ will overflow in the bowl of the carburetor and leak out upon the
+ ground.
+
+
+ _When there is dirt in the Carburetor--what?_       _Answer No. 48_
+
+ The spraying nozzle of the carburetor having a very small opening,
+ a minute particle of grit or other foreign matter will clog up the
+ orifice, and result: motor will begin to misfire and slow down as
+ soon as it has attained any considerable speed. This is accounted
+ for by the fact that at high speeds the increased suction will
+ draw the particles of dust, etc., into the nozzle. By opening
+ the valve needle half a turn and giving the throttle lever two
+ or three quick pulls the dirt or sediment will often be drawn
+ through, when the needle may be turned back to its original place.
+ If this does not accomplish the purpose, the carburetor should be
+ drained.
+
+
+ _If Engine runs too fast or chokes with throttle retarded--what?_
+                                                     _Answer No. 49_
+
+ If the engine runs too fast with throttle fully retarded unscrew
+ the carburetor throttle lever adjusting screw until the engine
+ idles at suitable speed. If the motor chokes and stops when
+ throttle is fully retarded the adjusting screw should be screwed
+ in until it strikes the boss, preventing the throttle from closing
+ too far. When proper adjustment has been made, tighten lock-screw
+ so that adjustment will not be disturbed.
+
+
+ _What is the purpose of the Hot Air Pipe?_          _Answer No. 50_
+
+ It takes the hot air from around the exhaust pipe and conducts it
+ to the carburetor--where the heat facilitates the vaporizing of
+ the gasoline. It is usually advisable to remove this pipe in the
+ hot season--but it is an absolutely necessary feature during cold
+ weather.
+
+
+ _What is the purpose of the Cork Float?_            _Answer No. 51_
+
+ It automatically controls the flow of the gasoline into the
+ carburetor. If it floats too low, starting will be difficult; if
+ too high, the carburetor will flood and leak. A cork float which
+ has become fuel soaked should be removed and replaced by a new one
+ or thoroughly dried and then given a couple of coats of liquid
+ shellac to make it waterproof.
+
+
+ _Should Priming Rod be used in starting when Motor is warm?_
+                                                     _Answer No. 52_
+
+ No. The carburetor does not ordinarily require priming when the
+ motor is warm, and starting with the rod pulled out is apt to
+ "flood" the engine with an over-rich mixture of gas, which does
+ not readily explode. This naturally causes difficulty in starting.
+ If you should accidentally flood the engine, turn the carburetor
+ adjusting needle down (to the right) until it seats; then turn
+ the engine over a few times in order to exhaust the rich gas. As
+ soon as the motor starts, turn back the needle (to the left) and
+ readjust the carburetor.
+
+ [Illustration: Wiring of Ford Ignition System. (Cut No. 8)]
+
+
+
+
+ The Ford Ignition System
+
+
+ _What is the purpose of the Ignition System?_       _Answer No. 53_
+
+ It furnishes the electric spark which explodes the charge in
+ the combustion chamber, thus producing the power which runs the
+ engine. It is important that the charge be correctly ignited
+ at the proper time, in order to obtain satisfactory results in
+ running the car. In the Ford car the ignition system is as simple
+ as it is possible for human invention to make it.
+
+
+ _How does the Magneto generate the current?_        _Answer No. 54_
+
+ In revolving at the same rate of speed as the motor, the magnets
+ on the flywheel passing the stationary coil spools create an
+ alternating low tension electric current in coils of wire which
+ are wound around spools fastened to the stationary part of the
+ magneto, and is carried from these coils to the magneto connection
+ (wire) leading to the coil box on the dash.
+
+
+ _Should the Coil Vibrator Adjustment be disturbed?_
+                                                     _Answer No. 55_
+
+ The present style of coil unit is properly adjusted when it leaves
+ the factory and this adjustment should not be disturbed unless to
+ install new points or to reduce the gap between the points which
+ may have increased from wear. When adjustments are necessary they
+ should, whenever possible, be made by one of our service stations
+ who have special equipment for testing and adjusting units and
+ will gladly furnish expert service. If the points are pitted
+ they should be filed flat with a fine double-faced file and the
+ adjusting thumb nut turned down so that with the spring held down
+ the gap between the points will be a trifle less than 1/32" of
+ an inch. Then set the lock nut so that the adjustment can not be
+ disturbed. Do not bend or hammer on the vibrators, as this would
+ affect the operation of the cushion spring of the vibrator bridge
+ and reduce the efficiency of the unit.
+
+
+ _How is a Weak Unit detected?_                      _Answer No. 56_
+
+ With the vibrators properly adjusted, if any particular cylinder
+ fails or seems to develop only a weak action, change the position
+ of the unit to determine if the fault is actually in the unit. The
+ first symptom of a defective unit is the buzzing of the vibrator
+ with no spark at the plug. Remember that a loose wire connection,
+ faulty spark plug, or worn commutator may cause irregularity
+ in the running of the motor. These are points that should be
+ considered before laying the blame on the coil.
+
+
+ _How may short circuit in Commutator Wiring be detected?_
+                                                     _Answer No. 57_
+
+ Should the insulation of the primary wires (running from coil to
+ commutator) become worn to such an extent that the copper wire is
+ exposed--the current will leak out (i. e. short circuit) whenever
+ contact with the engine pan or other metal parts is made. A steady
+ buzzing of one of the coil units will indicate a "short" in the
+ wiring. When driving the car the engine will suddenly lag and
+ pound on account of the premature explosion. Be careful not to
+ crank the engine downward against compression when the car is in
+ this condition, as the "short" is apt to cause a vigorous kick
+ back.
+
+
+ _Does Coil Adjustment affect starting?_             _Answer No. 58_
+
+ Yes. When the vibrators are not properly adjusted more current is
+ required to make and break the contact between the points, and,
+ as a result, at cranking speeds you would not get a spark between
+ the spark plug points. Do not allow the contact points to become
+ "ragged," otherwise they are apt to stick and cause unnecessary
+ difficulty in starting, and when running they are apt to produce
+ an occasional "miss" in the engine.
+
+
+ _What is the purpose of the Commutator?_            _Answer No. 59_
+
+ The commutator (or timer) determines the instant at which the
+ spark plugs must fire. It effects the "make and break" in the
+ primary circuit. The grounded wire in the magneto allows the
+ current to flow through the metal parts to the metal roller in the
+ commutator. Therefore, when the commutator roller in revolving
+ touches the four commutator contact points, to each of which is
+ attached a wire connected with a coil unit, an electrical circuit
+ is passed through the entire system of primary wires. This circuit
+ is only momentary, however, as the roller passes over the contact
+ point very rapidly and sets up the circuit in each unit as the
+ roller touches the contact point connected with that unit. The
+ commutator should be kept clean and well oiled at all times.
+
+ [Illustration: The Ford Commutator. (Cut No. 9)]
+
+
+ _What about the Spark Plugs?_                       _Answer No. 60_
+
+ One is located at the top of each cylinder and can easily be taken
+ out with the spark plug wrench included with every car, after the
+ wire connection is removed. The high voltage current flows out of
+ the secondary coils in the coil box and on reaching the contact
+ points in each spark plug it is forced to jump a 1/32" gap,
+ thereby forming a spark which ignites the gasoline charge in the
+ cylinders.
+
+ The spark plugs should be kept clean (i. e., free from carbon) and
+ should be replaced if they persist in not working properly. There
+ is nothing to be gained by experimenting with different makes of
+ plugs. The make of plugs with which Ford engines are equipped
+ when they leave the factory are best adapted to the requirements
+ of our motor, notwithstanding the opinion of various garage men
+ to the contrary. All wire connections to spark plugs, coil box
+ and commutator should, of course, at all times be kept in perfect
+ contact.
+
+
+ _What are the indications of Ignition trouble?_     _Answer No. 61_
+
+ The uneven sputter and bang of the exhaust means that one or
+ more cylinders are exploding irregularly or not at all, and that
+ the trouble should be promptly located and overcome. Misfiring,
+ if allowed to continue, will in time injure the engine and the
+ entire mechanism. If you would be known as a good driver you will
+ be satisfied only with a soft, steady purr from the exhaust. If
+ anything goes wrong, stop and fix it if possible--don't wait until
+ you get home.
+
+
+ _How can one tell which Cylinder is missing?_       _Answer No. 62_
+
+ This is done by manipulating the vibrators on the spark coils.
+ Open the throttle until the engine is running at a good speed
+ and then hold down the two outside vibrators. No. 1 and No. 4,
+ with the fingers, so they cannot buzz. This cuts out the two
+ corresponding cylinders. No. 1 and No. 4, leaving only No. 2 and
+ No. 3 running. If they explode regularly it is obvious the trouble
+ is in either No. 1 or No. 4. Relieve No. 4 and hold down No. 2
+ and No. 3 and also No. 1; if No. 4 cylinder explodes evenly it
+ is evident the misfiring is in No. 1. In this manner all of the
+ cylinders in turn can be tested until the trouble is located.
+ Examine both the spark plug and the vibrator of the missing
+ cylinder.
+
+
+ _If the Coil and Plug are right--what?_             _Answer No. 63_
+
+ The trouble is probably due to an improperly seated valve, worn
+ commutator, or short circuit in the commutator wiring. Weakness in
+ the valves may be easily determined by lifting the starting crank
+ slowly the length of the stroke of each cylinder in turn, a strong
+ or weak compression in any particular valve being easily detected.
+ It sometimes happens that the cylinder head gasket (packing)
+ becomes leaky--permitting the gas under compression to escape, a
+ condition that can be detected by running a little lubricating oil
+ around the edge of the gasket and noticing whether bubbles appear
+ or not.
+
+
+ _Does a worn Commutator ever cause misfiring?_      _Answer No. 64_
+
+ Yes. If misfiring occurs when running at high speed, inspect
+ the commutator. The surface of the circle around which roller
+ (see Cut No. 9) travels should be clean and smooth, so that the
+ roller makes a perfect contact at all points. If the roller fails
+ to make a good contact on any one of the four contact points,
+ its corresponding cylinder will not fire. Clean these surfaces,
+ if dirty. In case the fibre, contact points and roller of the
+ commutator are badly worn the most satisfactory remedy is to
+ replace them with new parts. The spring should be strong enough to
+ make a firm contact between the roller points if they are worn or
+ dirty.
+
+ Misfiring may also be caused by short circuited commutator wires.
+
+
+ _How is the Commutator removed?_                    _Answer No. 65_
+
+ Remove cotter pin from spark rod and detach latter from
+ commutator. Loosen the cap screw which goes through breather pipe
+ on top of time gear cover. This will release the spring which
+ holds the commutator case in place and this part can be readily
+ removed. Unscrew lock nut; withdraw steel brush cap and drive out
+ the retaining pin. The brush can then be removed from the cam
+ shaft.
+
+ In replacing the brush, care must be exercised to see that it is
+ replaced so that the exhaust valve on the first cylinder is closed
+ when the brush points upward. This may be ascertained by removing
+ the valve door and observing the operation of No. 1 valve.
+
+
+ _Does cold weather affect the Commutator?_          _Answer No. 66_
+
+ It is a well-known fact that in cold weather even the best grades
+ of lubricating oil are apt to congeal to some extent. If this
+ occurs in the commutator it is very apt to prevent the roller from
+ making perfect contact with the contact points imbedded in the
+ fibre. This, of course, makes difficult starting as the roller arm
+ spring is not stiff enough to brush away the film of oil which
+ naturally forms over the contact points. To overcome this, as
+ well as any liability of the contact points to rust, we recommend
+ a mixture of 25% kerosene with commutator lubricating oil, which
+ will thin it sufficiently to prevent congealing, or freezing, as
+ it is commonly called. You have probably noticed in starting your
+ car in cold weather that perhaps only one or two cylinders will
+ fire for the first minute or so, which indicates that the timer is
+ in the condition described above and as a consequence a perfect
+ contact is not being made on each of the four terminals.
+
+ [Illustration: The Ford Magneto. The flywheel with magnets
+ revolves while magneto coils remain stationary. (Cut No. 10)]
+
+
+ _How is the Magneto removed?_                       _Answer No. 67_
+
+ It is necessary to take the power plant out of the car (see Answer
+ No. 32) in order to remove the magneto. Then remove crank case
+ and transmission cover--take out the four cap screws that hold
+ the flywheel to the crank shaft. You will then have access to
+ the magnets and entire magneto mechanism. In taking out these
+ parts--or any parts of the car--the utmost care should be taken to
+ make sure that the parts are so marked that they may be replaced
+ properly.
+
+
+ _When the Magneto gets out of order--what?_         _Answer No. 68_
+
+ The Ford magneto is made of permanent magnets and there is very
+ little likelihood of their ever losing their strength, unless
+ acted upon by some outside force. For instance, the attachment of
+ a storage battery to the magneto terminal will demagnetize the
+ magnets. If anything like this happens, it is not advisable to
+ try to recharge them, but rather install a complete set of new
+ magnets. The new magnets will be sent from the nearest agent or
+ branch house, and will be placed on a board in identically the
+ same manner as they should be when installed on the flywheel.
+ Great care should be taken in assembling the magnets and lining
+ up the magneto so that the faces of the magnets are separated
+ from the surface of the coil spool just 1/32 of an inch. To take
+ out the old magnets, simply remove the cap screw and bronze screw
+ which holds each in place. The magneto is often blamed when the
+ trouble is a weak current caused by waste or other foreign matter
+ accumulating under the contact spring, which is held in place by
+ the binding post on top of the crank case cover. Remove the three
+ screws which hold the binding post in place, remove binding post
+ and spring and replace after foreign substance has been removed.
+
+ [Illustration: Transmission showing all gears in mesh. (Cut No.
+ 11)]
+
+
+
+
+ The Ford Transmission
+
+
+ _What is the function of the Transmission?_         _Answer No. 69_
+
+ It is that part of the mechanism of an automobile which lies
+ between the crank shaft and the drive shaft and by which one is
+ enabled to move at different speeds from the other. It is the
+ speed gear of the car. It sends the car forward at low and high
+ speeds and by it the car is reversed.
+
+
+ _What is meant by the term "Planetary Transmission?"_
+                                                     _Answer No. 70_
+
+ One in which the groups of gears always remain in mesh and revolve
+ around a main axis. The different sets of gears are brought into
+ action by stopping the revolution of the parts which support the
+ gears. By means of bands (similar to brake bands) the rotation of
+ the different parts is stopped. The planetary transmission is the
+ simplest and most direct means of speed control--and is a distinct
+ advantage of the Ford car.
+
+
+ _What is the purpose of the Clutch?_                _Answer No. 71_
+
+ If the crank shaft of the engine ran without break straight
+ through to the differential--and through it applied its power
+ direct to the rear wheels--the car would start forward immediately
+ upon the starting of the engine (were it possible to get it
+ started under such conditions). To overcome this difficulty the
+ shaft is divided and by means of the clutch the part of the shaft
+ to which the running engine is delivering its power is enabled to
+ take hold of the unmoving part gradually and start the car without
+ jolt or jar. The forward part of the shaft is referred to as the
+ crank shaft, the rear part as the drive shaft.
+
+
+ _How is the Clutch controlled?_                     _Answer No. 72_
+
+ By the left pedal at the driver's feet (see Answer No. 10). If
+ the clutch pedal, when pushed forward into slow speed, has a
+ tendency to stick and not come back readily into high, tighten
+ up the slow speed band as directed in Answer No. 74. Should the
+ machine have an inclination to creep forward when cranking, it
+ indicates that the clutch lever screw which bears on the clutch
+ lever cam has worn, and requires an extra turn to hold the clutch
+ in neutral position. When the clutch is released by pulling back
+ the hand lever the pedal should move forward a distance of 13/4" in
+ passing from high speed to neutral. See that the hub brake shoe
+ and connections are in proper order so that the brake will act
+ sufficiently to prevent the car creeping very far ahead. Also
+ be sure the slow speed band does not bind on account of being
+ adjusted too tight. Don't use a too heavy grade of oil in cold
+ weather as it will have a tendency to congeal between the clutch
+ discs and prevent proper action of the clutch.
+
+
+ _How is the Clutch adjusted?_                       _Answer No. 73_
+
+ Remove the plate on the transmission cover under the floor boards
+ at the driver's feet. Take out the cotter key on the first clutch
+finger and give the set screw one-half to one complete turn to the
+right with a screw-driver. Do the same to the other finger set
+screws. But be sure to give each the same number of turns and don't
+forget to replace the cotter key. And after a considerable period
+of service the wear in the clutch may be taken up by installing
+another pair of clutch discs, rather than by turning the adjusting
+screws in too far.
+
+ [Illustration: The above drawing of Transmission shows clearly the
+ operation of Clutch, Reverse and Brake Pedals. (Cut No. 12)]
+
+ CAUTION: Let us warn you against placing any small tools or
+ objects over or in the transmission case without a good wire or
+ cord attached to them. Otherwise if they are dropped into the
+ transmission case it is almost impossible to recover them without
+ taking off the transmission cover.
+
+
+ _How are the Bands adjusted?_                       _Answer No. 74_
+
+ The slow speed band may be tightened by loosening the lock nut
+ at the right side of the transmission cover, and turning the
+ adjusting screw (see Cut No. 12) to the right. To tighten the
+ brake and reverse bands remove the transmission cover door and
+ turn the adjusting nuts on the shafts to the right. See that the
+ bands do not drag on the drums when disengaged, as they exert a
+ brake effect, and tend to overheat the motor. However, the foot
+ brake should be adjusted so that a sudden pressure will stop the
+ car immediately, or slide the rear wheels in case of emergency.
+ The bands, when worn to such an extent that they will not take
+ hold properly, should be relined, so that they will engage
+ smoothly without causing a jerky movement of the car. The lining
+ is inexpensive and may be had at any Ford service station at small
+ cost.
+
+
+ _How are the Bands removed?_                        _Answer No. 75_
+
+ Remove the starting motor (see Answer No. 128). Take off the door
+ on top of transmission cover. Turn the reverse adjustment nut and
+ the brake adjustment nut to the extreme end of the pedal shafts,
+ then remove the slow speed adjusting screw. Remove the bolts
+ holding the transmission cover to crank case and lift off the
+ cover assembly. Slip the band nearest the flywheel over the first
+ of the triple gears, then turn the band around so that the opening
+ is downward. The band can now be removed by lifting upward. The
+ operation is more easily accomplished if the three sets of triple
+ gears are so placed that one set is about ten degrees to the right
+ of center at top. Each band is removed by the same operation. It
+ is necessary to shove each band forward on to the triple gears as
+ at this point only is there sufficient clearance in the crank case
+ to allow the ears of the transmission bands to be turned downward.
+ By reversing this operation the bands may be installed. After
+ being placed in their upright position on the drums pass a cord
+ around the ears of the three bands, holding them in the center so
+ that when putting the transmission cover in place no trouble will
+ be experienced in getting the pedal shafts to rest in the notches
+ in the band ears. The clutch release ring must be placed in the
+ rear groove of the clutch shift. With the cover in place remove
+ the cord which held the bands in place while the cover was being
+ installed.
+
+
+ _How is the Transmission assembled?_                _Answer No. 76_
+
+ Cut No. 13 shows the transmission parts in their relative
+ assembling positions and grouped in their different operations of
+ assembling.
+
+ The first operation is the assembling of group No. 2, which is as
+ follows: Place the brake drum on table with the hub in a vertical
+ position, place the slow speed plate over the hub with gear
+ uppermost. Then place reverse plate over the slow speed plate so
+ that the reverse gear surrounds the slow speed gear. Fit the two
+ keys in the hub just above the slow speed gear. Put the driven
+ gear in position with the teeth downward so that they will come
+ next to the slow speed gear. Take the three triple gears and mesh
+ them with the driven gear according to the punch marks on the
+ teeth, the reverse gear or smallest of the triple gear assembly
+ being downward. After making sure that the triple gears are
+ properly meshed tie them in place by passing a cord around the
+ outside of the three gears. Take the flywheel and place it on
+ the table with the face downward and the transmission shaft in a
+ vertical position; then invert the group which you have assembled
+ over the transmission shaft, setting it in position so that the
+ triple gear pins on the flywheel will pass through the triple
+ gears. This will bring the brake drum on top in a position to hold
+ the clutch plates, etc. The next step is to fit the clutch drum
+ key in the transmission shaft. Press the clutch disc drum over
+ the shaft and put the set screw in place to hold the drum. Put a
+ large disc over the clutch drum, then a small disc, alternating
+ with large and small discs until the entire set of discs are in
+ position, ending up with a large disc on top.
+
+ [Illustration: Transmission parts in their relative assembling
+ positions. (Cut No. 13)]
+
+ If a small disc is on top it is liable to fall over the clutch
+ drum in changing the speed from high to low and as a result you
+ would be unable to change the speed back into high. Next put the
+ clutch push ring over the clutch drum, and on top of the discs
+ with the three pins projecting upward (see Group No. 4, Cut No.
+ 13). You will note the remaining parts are placed as they will
+ be assembled. Next bolt the driving plate in position so that
+ the adjusting screws of the clutch fingers will bear against the
+ clutch push ring pins. Before proceeding further it would be a
+ good plan to test the transmission by moving the plates with
+ the hands. If the transmission is properly assembled they will
+ revolve freely. The clutch parts may be assembled on the driving
+ plate hub as follows: Slip the clutch shift over the hub so that
+ the small end rests on the ends of the clutch fingers. Next put
+ on the clutch spring, placing the clutch support inside so that
+ the flange will rest on the upper coil of the spring and press
+ into place, inserting the pin in the driving plate hub through
+ the holes in the side of the spring support. Then turn the clutch
+ spring support until the pin fits into the lugs on the bottom
+ of the support. The easiest method of compressing the spring
+ sufficiently to insert the pin is to loosen the tension of the
+ clutch finger by means of the adjusting screws. When tightening
+ up the clutch again the spring should be compressed to within a
+ space of two or two and one-sixteenth inches to insure against the
+ clutch slipping. Care should be exercised to see that the screws
+ in the fingers are adjusted so the spring is compressed evenly all
+ around.
+
+ [Illustration: The Rear Axle System. (Cut No. 14)]
+
+
+
+
+ The Rear Axle Assembly
+
+
+ _How is the Rear Axle removed?_                     _Answer No. 77_
+
+ Jack up car and remove rear wheels as instructed in Answer No. 89.
+ Take out the four bolts connecting the universal ball cap to the
+ transmission case and cover. Disconnect brake rods. Remove nuts
+ holding spring perches to rear axle housing flanges. Raise frame
+ at the rear end, and the axle can be easily withdrawn.
+
+
+ _How is the Universal Joint disconnected from the Drive Shaft?_
+                                                     _Answer No. 78_
+
+ Remove two plugs from top and bottom of ball casting and turn
+ shaft until pin comes opposite hole, drive out pin and the joint
+ can be pulled or forced away from the shaft and out of the housing.
+
+
+ _How are the Rear Axle and Differential disassembled?_
+                                                     _Answer No. 79_
+
+ With the universal joint disconnected, remove nuts in front end
+ of radius rods and the nuts on studs holding drive shaft tube
+ to rear axle housing. Remove bolts which hold the two halves
+ of differential housing together. If necessary to disassemble
+ differential a very slight mechanical knowledge will permit one to
+ immediately discern how to do it once it is exposed to view. Care
+ must be exercised to get every pin, bolt and keylock back in its
+ correct position when reassembling.
+
+
+ _How is the Drive Shaft Pinion removed?_            _Answer No. 80_
+
+ The end of the drive shaft, to which the pinion is attached, is
+ tapered to fit the tapered hole in the pinion, which is keyed
+ onto the shaft, and then secured by a cotter-pinned "castle" nut.
+ Remove the castle nut, and drive the pinion off.
+
+
+ _How are the Differential Gears Removed?_           _Answer No. 81_
+
+ The differential gears are attached to the inner ends of the rear
+ axle shaft. They work upon the differential pinions when turning
+ a corner, so that the axle shafts revolve independently, but when
+ the car is moving in a straight line the differential pinions and
+ differential gears and axle shafts move as an integral part. If
+ you will examine the rear axle shafts you will notice that the
+ gears are keyed on, and held in position by a ring which is in two
+ halves and fits in a groove in the rear axle shaft. To remove the
+ differential gears, force them down on the shaft, that is, away
+ from the end to which they are secured, drive out the two halves
+ of ring in the grooves in shaft with screw-driver or chisel, then
+ force the gears off the end of the shafts.
+
+
+ _How is the Rear Axle Shaft removed?_               _Answer No. 82_
+
+ Disconnect rear axle as directed in Answer No. 77, then unbolt the
+ drive shaft assembly where it joins the rear axle housing at the
+ differential. Disconnect the radius rods and brake rods at the
+ outer ends of the housing. Take out the bolts which hold the two
+ halves of the rear axle housing together at the center and remove
+ the housing. Take the inner differential casing apart and draw the
+ axle shaft out.
+
+ After replacing the axle shaft be sure that the rear wheels are
+ firmly wedged on at the outer end of the axle shaft and the key
+ in proper position. When the car has been driven thirty days or
+ so, make it a point to remove the hub cap and set up the lock nut
+ to overcome any play that might have developed. It is extremely
+ important that the rear wheels are kept tight, otherwise the
+ constant rocking back and forth against the keyway may in time
+ cause serious trouble.
+
+ [Illustration: The Ford Emergency Brake. (Cut No. 15)]
+
+ If the rear axle or wheel is sprung by skidding against a curb,
+ or other accident, it is false economy to drive the car without
+ correcting the trouble, as tires, gears and all other parts will
+ suffer. If the axle shaft is bent, it can, with proper facilities,
+ be straightened, but it is best to replace it.
+
+
+
+
+ The Ford Muffler
+
+
+ _Why is the Muffler necessary?_                     _Answer No. 83_
+
+ The exhaust as it comes from the engine through the exhaust pipe
+ would create a constant and distracting noise were it not for
+ the muffler. From the comparatively small pipe, the exhaust is
+ liberated into the larger chambers of the muffler, where the force
+ of the exhaust is lessened by expansion and discharged out of the
+ muffler with practically no noise. The Ford muffler construction
+ is such that there is very little back pressure of the escaping
+ gases, consequently there is nothing to be gained by putting a
+ cut-out in the exhaust pipe between the engine and the muffler.
+
+
+ _How is the Muffler disconnected?_                  _Answer No. 84_
+
+ Disconnect the exhaust pipe from the motor by unscrewing the pack
+ nut and remove the bolts which hold the muffler to the frame.
+ After the muffler has been disconnected it can be disassembled by
+ removing the nut at the rear end.
+
+
+
+
+ The Running Gear
+
+
+ _What care should the Running Gear have?_           _Answer No. 85_
+
+ In the first place it at all times should have proper lubrication
+ (see chapter on Lubrication). Once in every thirty days the front
+ and rear axles should be carefully gone over to see that every
+ moving part, such as the bushings in spring connections, spring
+ hangers, steering knuckles and hub bearings, are thoroughly
+ lubricated, and that all nuts and connections are secured with
+ cotter pins in place. The spring clips, which attach the front
+ spring to the frame, should be inspected frequently to see that
+ everything is in perfect order.
+
+
+ _How is the Front Axle removed?_                    _Answer No. 86_
+
+ Jack up front of car so wheels can be removed (see Answer No. 89),
+ disconnect steering gear ball arm from the spindle connecting rod,
+ disconnect radius rod at ball joint, and remove two cotter pin
+ bolts from spring shackle on each side, so detaching front spring.
+
+ To disconnect radius rod from axle, remove cotter-pinned nuts. To
+ remove radius rod entirely, take the two bolts out of the ball
+ joint and remove lower half of cap.
+
+
+ _In case of accident, how is the Front Axle straightened?_
+                                                     _Answer No. 87_
+
+ Should the axle or spindle become bent extreme care must be used
+ to straighten the parts accurately. Do not heat the forgings,
+ as this will untemper the steel, but straighten them cold. If
+ convenient it would be better to return such parts to the dealer,
+ where they may be properly straightened in jigs designed for that
+ purpose. It is very essential that the wheels line up properly
+ (see Answer No. 90).
+
+ [Illustration: The Ford Spindle and Front Hub Assembly. (Cut No.
+ 16)]
+
+ The eye is not sufficiently accurate to determine whether the
+ parts have been properly straightened, and excessive wear of the
+ front tires will occur if everything is not in perfect alignment.
+
+
+ _What about the Wheels?_                            _Answer No. 88_
+
+ The wheels should be jacked up periodically and tested, not
+ only for smoothness of running, but for side play as well. If
+ in spinning a front wheel a sharp click occurs now and then and
+ the wheel is momentarily checked, it is probable that there is
+ a chipped or split ball in the bearing which should be removed,
+ otherwise it may necessitate the removal of the entire bearing. A
+ wheel in perfect adjustment should, after spinning, come to rest
+ with the tire valve directly below the hub. Undue wear of the hub
+ bearings is usually caused by lack of lubrication and excessive
+ friction, due to the adjusting cone being screwed up too tight. It
+ is a good plan to clean the bearings frequently and keep the hub
+ well filled with grease.
+
+
+ _How are the Wheels removed?_                       _Answer No. 89_
+
+ Front wheels: Take off hub cap, remove cotter pin and unscrew
+ castle nut and spindle washer. The adjustable bearing cone can
+ then be taken out and the wheel removed. Care should be taken to
+ see that the cones and lock nuts are replaced on the same spindle
+ from which they were removed, otherwise there is a liability of
+ stripping the threads which are left on the left spindle and right
+ on the opposite as you stand facing the car. Rear wheels: They
+ should not be removed unless absolutely necessary--in which case
+ proceed as above, then with a wheel puller remove the wheel from
+ the tapered shaft to which it is locked with a key. In replacing
+ rear wheels be sure that nut on axle shaft is as tight as possible
+ and cotter pin in place. The hub caps of the rear wheels should
+ be removed occasionally and the lock nuts which hold the hub in
+ place tightened up. If these nuts are allowed to work loose, the
+ resulting play on the hub key may eventually twist off the axle
+ shaft.
+
+
+ _How does the setting of the Front Wheels differ from that of the
+ Rear Wheels?_                                       _Answer No. 90_
+
+ It will be observed that the front wheels are "dished;" that is,
+ the spokes are given a slight outward flare to enable them to meet
+ side stresses with less rigid resistance--while the spokes of the
+ rear wheels are straight. The front wheels are also placed at an
+ angle--that is to say, the distance between the tops of the front
+ wheels is about three inches greater than between the bottoms.
+ This is to give perfect steering qualities and to save wear on the
+ tires when turning corners. The front wheels should not, however,
+ "toe-in" at the front--at least not more than a quarter of an
+ inch. Lines drawn along the outside of the wheels when the latter
+ are straight in a forward position should be parallel. All wheels
+ should always be kept in proper alignment, otherwise steering will
+ be difficult and tire wear greatly increased. Adjustment can be
+ made by turning the yoke at the left end of the spindle connecting
+ rod, to draw the wheels into a parallel position.
+
+
+ _What about installing Roller Bearing Cups?_        _Answer No. 91_
+
+ Whenever it is necessary to install roller bearing cups, either
+ in changing over from ball bearings to roller bearings or in
+ replacing worn cups, the work should be done by a Dealer or Garage
+ which has the necessary equipment for this work. In order to avoid
+ excessive wear of the bearings it is essential that the cups be
+ fitted absolutely true and this is practically impossible without
+ the use of special equipment.
+
+ [Illustration: Sectional view of Hub showing Roller Bearings. (Cut
+ No. 17)]
+
+
+ _How are the Roller Bearings installed?_            _Answer No. 92_
+
+ First, pack the hub full of clean good quality cup grease. Take
+ the inner cone with its rollers and pack it with grease, filling
+ all of the space around and between the rollers. Then place the
+ inner cone in the larger cup. Next, drive the dust ring with felt
+ washer into the inner end of the hub so that it is flush with the
+ end of the hub.
+
+ Place the wheel carrying the inner bearings with dust ring on the
+ spindle. The inner cone is a one-thousandth fit, or, in other
+ words, a slip fit on the spindle. (See Cut No. 17.) It is never
+ necessary to force the cone onto the spindle as the cups are
+ forced into the hub. Pack the outer or threaded cone and rollers
+ with cup grease, filling all the space between the rollers, as
+ was done with the inner cone. The cones are made up in right-and
+ left-hand threads to correspond to the threads on the spindles.
+ Care should be taken that a right-hand threaded cone is not forced
+ onto a left-hand threaded spindle. The right-hand thread is on the
+ left-hand side of the car, while the left-hand thread is on the
+ right-hand side of the car. Place the cone on the spindle, running
+ it up tight enough so that the wheel seems to bind; give the wheel
+ a few turns to be sure that all the working parts are in perfect
+ contact; then back off the cone 1/4 to 1/2 a turn which will be
+ sufficient to allow the wheel to revolve freely without end play.
+ To determine if there is end play, grasp the spokes and shake the
+ wheel. Do not mistake loose spindle bushings for loose bearings.
+ Insert a cold chisel between axle and spindle to take up any play
+ while testing the bearings. Next, put on the spindle washer and
+ nut, drawing the nut to a firm bearing. Make sure that the cone
+ has not been forced out of adjustment. This can be determined by
+ giving the wheel a few turns. Insert the cotter pin which locks
+ the nut on the spindle, fill the hub cap with grease and screw it
+ in place on the hub.
+
+
+ _How often should the Bearings be lubricated?_      _Answer No. 93_
+
+ Every three or four months the wheels should be removed, the old
+ grease taken out and the hubs and bearings thoroughly cleansed
+ with kerosene. Then repack the hub and bearings with clean grease
+ and readjust the bearings.
+
+
+ _What care do the Springs need?_                    _Answer No. 94_
+
+ The springs should be lubricated frequently with oil or graphite.
+ To do this, pry the leaves apart near the ends and insert the
+ lubricant between them. Whenever a car is given a general
+ overhauling, the springs should be disassembled and the leaves
+ polished with emery cloth, afterwards packing them with graphite
+ when reassembling. Rust can be prevented from accumulating on the
+ springs by painting them when necessary with a quick drying black
+ paint. You will find that these suggestions if carried out will
+ not only improve the riding qualities of the car but prolong the
+ life of the parts as well.
+
+
+ _Should Spring Clips be kept tight?_                _Answer No. 95_
+
+ Yes. If the spring clips are allowed to work loose the entire
+ strain is put on the tie bolt which extends through the centre of
+ the spring. This may cause the bolt to be sheared off and allow
+ the frame and body to shift a trifle to one side. It is a good
+ plan to frequently inspect the clips which hold the springs to the
+ frame and see that they are kept tight.
+
+
+ _What about the Steering Apparatus?_                _Answer No. 96_
+
+ It is exceedingly simple and will need little care--except, of
+ course, proper lubrication. The post gears which are arranged in
+ the "sun and planet" form are located at the top of the post just
+ below the hub of the wheel (see Cut No. 1). By loosening the set
+ screw and unscrewing the cap--after having removed the steering
+ wheel--they may readily be inspected and replenished with grease.
+ To remove the steering wheel, unscrew the nut on top of the post
+ and drive the wheel off the shaft with a block of wood and hammer.
+
+
+ _How is Steering Gear tightened?_                   _Answer No. 97_
+
+ Should the steering gear become loose, that is, so that a slight
+ movement of the wheel does not produce immediate results, it may
+ be tightened in the following manner: Disconnect the two halves
+ of the ball sockets which surround the ball arm at the lower end
+ of the steering post and file off the surface until they fit
+ snugly around the ball. If the ball is badly worn it is best to
+ replace it with a new one. Also tighten the ball caps at the other
+ end of the steering gear connecting rod in the same manner. If
+ the bolts in the steering spindle arms appear to be loose, the
+ brass bushings should be replaced with new ones (see Cut No. 16).
+ Excessive play in the front axle may be detected by grasping one
+ of the front wheels by the spokes and jerking the front axle back
+ and forth. After the car has been in service two or three years
+ excessive play in the steering gear may make necessary the renewal
+ of the little pinions, as well as the brass internal gear just
+ underneath the steering wheel spider.
+
+ It is also advisable to inspect the front spring and front spring
+ perches occasionally to determine whether or not new bushings are
+ necessary to overcome any excessive vibration.
+
+ [Illustration: Lubrication Chart. (Cut No. 18)]
+
+
+
+
+ The Ford Lubricating System
+
+
+ _How does the Ford Lubricating System differ from others?_
+                                                     _Answer No. 98_
+
+ It is simplified--and there are fewer places to oil. Practically
+ all of the parts of the engine and transmission are oiled by the
+ Ford splash system, from the one big oil reservoir in the crank
+ case. Cut No. 18 shows the principal points of lubrication, and
+ specifies when replenishment should be made, according to mileage.
+ This chart should be studied carefully and often. It is a good
+ plan to frequently supply all oil cups with the same oil used in
+ the engine (any good light grade lubricating oil will answer) and
+ the dope cups with good grease. Be sure to see that the commutator
+ is kept freely supplied with oil at all times.
+
+
+ _Which is the best way to fill the "Dope" Cups?_    _Answer No. 99_
+
+ When it is advisable to fill dope cup covers screw them down,
+ refill with grease and repeat the operation two or three times.
+ Always open oil cups by turning to right, as this keeps tightening
+ rather than loosening them. Occasionally remove front wheels and
+ supply dope to wearing surface. A drop of oil now and then in
+ crank-handle bearing is necessary, also on fan belt pulleys and
+ shaft. The axles drive shaft and universal joint are well supplied
+ with lubricant when the car leaves the factory, but it is well to
+ examine and oil them frequently.
+
+
+ _What kind of Oil should be used?_                 _Answer No. 100_
+
+ We recommend only medium light high-grade gas engine oil for use
+ in the Model T motor. A medium light grade of oil is preferred
+ as it will naturally reach the bearings with greater ease and
+ consequently less heat will develop on account of friction. The
+ oil should, however, have sufficient body so that the pressure
+ between the two bearing surfaces will not force the oil out and
+ allow the metal to come in actual contact. Heavy and inferior oils
+ have a tendency to carbonize quickly, also "gum up" the piston
+ rings, valve stems and bearings. In cold weather a light grade of
+ oil having a low cold test is absolutely essential for the proper
+ lubrication of the car. Graphite should not be used as a lubricant
+ in the engine or the transmission as it will have a tendency to
+ short-circuit the magneto.
+
+
+ _How often should Oil be drained from Crank Case?_ _Answer No. 101_
+
+ It is advisable to clean out the crank case by draining off the
+ dirty oil when the new car has been driven three hundred and
+ fifty miles; thereafter it will only be necessary to repeat this
+ operation about every seven hundred and fifty miles. Remove the
+ plug underneath the flywheel casing and drain off the oil. Replace
+ the plug and pour in a gallon of kerosene oil through the breather
+ pipe. Turn the engine over fifteen or twenty times so that the
+ splash from the kerosene oil will thoroughly cleanse the engine.
+ Remove crank case plug and drain off kerosene oil. It is of vital
+ importance that all the kerosene be removed from the depressions
+ in the crank case. To do this put about a quart of lubricating oil
+ into the motor and turn engine over several times, then remove the
+ crank case plug and drain off the flushing oil; then replace plug
+ and refill with fresh oil. (See Answer No. 3.)
+
+
+ _How often should Commutator be oiled?_            _Answer No. 102_
+
+ Keeping the commutator well oiled is a matter of far greater
+ importance than many drivers believe, and is necessary in order to
+ have a smooth operating engine. Don't be afraid to put a little
+ oil into the commutator every other day--at least every 200 miles.
+ Remember that the commutator roller revolves very rapidly, and
+ without sufficient lubrication the parts soon become badly worn.
+ When in this condition perfect contact between the roller and the
+ four contact points is impossible, as a result the engine is apt
+ to misfire when running at a good rate of speed.
+
+ [Illustration: Oiling the Ford Commutator. (Cut No. 19)]
+
+
+ _What about Lubricating the Differential?_         _Answer No. 103_
+
+ Do not make the mistake of putting too much grease in the
+ differential housing. The housing should not be more than
+ one-third full. The differential is supplied with the required
+ amount of lubricant when the car leaves the factory. The oil
+ plug should be removed about every 1000 miles and more grease
+ added if necessary. If a fluid grease is used the level should be
+ approximately one and one-half inches below the oil hole.
+
+
+
+
+ Care of the Tires
+
+
+ _How are Ford Tires removed?_                      _Answer No. 104_
+
+ First, jack up the wheel clear of the road. The valve cap should
+ be unscrewed, the lock nut removed and the valve stem pushed into
+ the tire until its bead is flush with the rim. This done, loosen
+ up the head of the shoe in the clinch of the rim by working and
+ pushing with the hands, then insert one of the tire irons or
+ levers under the beads. The tire iron should be pushed in just
+ enough to get a good hold on the under side of the bead, but not
+ so far as to "pinch" the inner tube between the rim and the tool.
+ A second iron should be inserted in the same fashion some seven or
+ eight inches from the first, and the third tool the same distance
+ from the second. As a clincher tire must be pried over the clinch,
+ three levers will come in handy in a case of a "one-man job," and
+ the knee of the driver can be used to good advantage to hold down
+ one lever while the other two are being manipulated in working the
+ shoe clear of the rim. After freeing a length of the bead from
+ the clinch, the entire outer edge of the casing may be readily
+ detached with the hands, and the damaged inner tube removed and
+ "patched" or a spare tube inserted. Always use plenty of soapstone
+ in replacing an inner tube.
+
+
+ _How are Casings repaired?_                        _Answer No. 105_
+
+ Should the casing be cut so there is danger of the inner tube
+ being blown through it, a temporary repair can be made by
+ cementing a canvas patch on the inside of the casing. Before
+ applying the patch the part of the casing affected should be
+ cleaned with gasoline and when dry, rubber cement applied to both
+ casing and patch. This will answer as an emergency repair--but the
+ casing should be vulcanized at the first opportunity.
+
+ To prolong the life of the tire casings, any small cuts in the
+ tread should be filled with patching cement and a specially
+ prepared "plastic" sold by the tire companies.
+
+
+ _How may Tire Expense be reduced?_                 _Answer No. 106_
+
+ Tire cost constitutes one of the most important items in the
+ running expenses of an automobile. To get the most service at the
+ least expense, the tires should be inspected frequently and all
+ small cuts or holes properly sealed or repaired--thus preventing
+ dirt and water working in between the rubber tread and the fabric,
+ causing blisters or sand boils.
+
+ Tires should never be run partially deflated, as the side walls
+ are unduly bent and the fabric is subject to stresses which cause
+ what is known as rim cutting. The chances of getting a puncture
+ will be greatly reduced by keeping your tires properly inflated,
+ as a hard tire exposes much less surface to the road than a soft
+ tire, and also deflects sharp objects that would penetrate a soft
+ tire.
+
+ Running a tire flat, even for a short distance, is sure to be
+ costly. Better run on the rim, very slowly and carefully, rather
+ than on a flat tire.
+
+ Remember that fast driving and skidding shorten the life of the
+ tires. Avoid locking the wheels with the brakes--no tire will
+ stand the strain of being dragged over the pavement in this
+ fashion.
+
+ Avoid running in street car tracks, in ruts, or bumping the sides
+ of the tire against the curbing.
+
+ The wheel rims should be painted each season and kept free from
+ rust. When a car is idle for any appreciable length of time, it
+ should be jacked up to take the load off the tires. If the car is
+ laid up for many months it is best to remove the tires, and wrap
+ up the outer casings and inner tubes separately, and store them
+ in a dark room not exposed to extreme temperatures. Remove oil or
+ grease from the tires with gasoline. Remember that heat, light and
+ oil are three natural enemies of rubber.
+
+
+ _How is a puncture in the Inner Tube repaired?_    _Answer No. 107_
+
+ After locating the puncture, carefully clean the rubber around
+ the leak with benzine or gasoline. Then roughen the surface with
+ sandpaper to give a hold for the cement. Apply the cement to
+ both patch and tube, allowing it to dry for about five minutes,
+ repeating the application twice with like intervals between for
+ drying. When the cement is dry and sticky press the patch against
+ the tube firmly and thoroughly to remove all air bubbles beneath
+ it and insure proper adherence to the surface--then spread some
+ soapstone or talc powder over the repair so as to prevent the
+ tube sticking to the casing. Before the tube is put back into the
+ casing plenty of talc powder should be sprinkled into the latter.
+ A cement patch is not usually permanent and the tube should be
+ vulcanized as soon as possible. In replacing the tire on the rim
+ be very careful not to pinch the tube.
+
+
+
+
+ Points on Maintenance
+
+
+ _What is the proper way to wash the Car?_          _Answer No. 108_
+
+ Always use cold or lukewarm water--never hot water. If a hose is
+ used, don't turn on the water at full force, as this drives the
+ dirt into the varnish and injures the finish. After the surplus
+ mud and grime have been washed off take a sponge and clean the
+ body and running gear with a tepid solution of water and Ivory
+ or linseed oil soap. Rinse off with cold water; then rub dry and
+ polish the body with a chamois skin. A body or furniture polish of
+ good quality may be used to add lustre to the car. Grease on the
+ running gear may be removed with a gasoline-soaked sponge or rag.
+ The nickeled parts may be polished with any good metal polish.
+
+
+ _What care does Top need?_                         _Answer No. 109_
+
+ When putting the top down be careful in folding to see that the
+ fabric is not pinched between the bow spacers, as they will chafe
+ a hole through the top very quickly. Applying a good top dressing
+ will greatly improve the appearance of an old top.
+
+
+ _What should be done when the Car is stored?_      _Answer No. 110_
+
+ Drain the water from the radiator, and then put in about a quart
+ of denatured alcohol to prevent freezing of any water that may
+ possibly remain. Remove cylinder head and clean out any carbon
+ deposits in combustion chamber. Draw off all the gasoline. Drain
+ the dirty oil from the crank case and cleanse the engine with
+ kerosene as directed in Answer No. 101. Refill the crank case with
+ fresh oil and revolve the engine enough to cover the different
+ parts with oil. Remove the tires and store them away. Wash up the
+ car, and if possible cover the body with a sheet of muslin to
+ protect the finish.
+
+
+ _What attention do the Electric Head Lights require?_
+                                                    _Answer No. 111_
+
+ Very little. When the cars leave our factory the lamps are
+ properly focused and unless the bulb burns out there should be no
+ occasion for removing the door, as there is nothing to get out of
+ order. Should the door be removed for any reason care should be
+ exercised not to touch the silver-plated reflector or the bulb
+ with anything but a soft, clean rag, preferably flannel. To focus
+ the lamps turn the adjusting screw in the back of lamp in either
+ direction until the desired focus is attained.
+
+
+
+
+ The Ford Model T One Ton Truck
+
+
+ _Do the Instructions relative to the Car apply to the Truck?_
+                                                    _Answer No. 112_
+
+ The answers pertaining to the car are applicable to the truck,
+ with the exception of Nos. 79, 80 and 81.
+
+
+ _How are the Rear Axle and Differential disassembled?_
+                                                    _Answer No. 113_
+
+ With the universal joint disconnected, remove the bolt in front
+ end of radius rods and the cap screws which hold the drive
+ shaft tube to the rear axle housing. Then remove the rear axle
+ housing cap; also the bolts which hold the two halves of the
+ differential housing together. With the differential exposed to
+ view, the manner of disassembling it will be apparent. Care must
+ be exercised to get every part back in its correct position when
+ reassembling, being sure to use new paper liners.
+
+
+ _How is the Worm removed?_                         _Answer No. 114_
+
+ To remove the worm, drive out the pins which hold the coupling
+ to the worm and drive shaft. Then remove the felt washer, roller
+ bearing sleeve, and roller bearing by slipping them over the
+ coupling. Drive the coupling off from the drive shaft and then
+ force the worm from the coupling. Removing the worm nut will
+ permit the removal of the retaining washer, thrust bearing and
+ rear worm roller bearing. In reassembling be sure that the pin
+ which holds the retaining washer stationary is in place.
+
+
+ _How is the Differential Gear removed from the Shaft?_
+                                                    _Answer No. 115_
+
+ The differential gear is fastened to the inner end of the rear
+ axle shaft by means of splines, and is held in position by a
+ ring which is in two halves and fits in a groove in the rear
+ axle shaft. To remove the gear, force it down on the shaft, that
+ is, away from the end to which it is fastened, drive out the two
+ halves of the ring in groove in shaft with screw-driver or chisel,
+ and force the gear off the end of the shaft.
+
+
+ _What about Lubricating the Rear Axle?_            _Answer No. 116_
+
+ Extreme care must be used in lubricating the differential. An A-l
+ heavy fluid or semi-fluid oil, such as Mobiloil C or Whittemore's
+ Worm Gear Protective, should be used and carried at a level with
+ the upper oil plug. The differential is supplied with the required
+ amount of lubricant when the truck leaves the factory and the
+ supply should be maintained by replenishments as required. After
+ running the truck about 500 miles, the oil should be drained
+ off by removing the lower oil plug, and the differential filled
+ with fresh lubricant. This operation should be repeated at
+ approximately 1000 miles, and after that whenever necessary. The
+ rear axle outer roller bearings are lubricated by means of dope
+ cups. These cups should be kept filled with a good grade of grease
+ and given a full turn every 100 miles. Before putting the truck
+ back in service after the rear axle has been taken down, fill the
+ differential with oil, jack up the axle and run it for five or ten
+ minutes to insure proper lubrication of all bearings.
+
+ [Illustration: Truck Rear Axle--Longitudinal View. (Cut No. 20)]
+
+ [Illustration: Truck Rear Axle--Cross Section showing Worm and
+ Worm Gear. (Cut No. 21)]
+
+ [Illustration: Starter and Generator Units. (Cut No. 22)]
+
+
+
+
+ The Ford Starting and Lighting System
+
+
+ _Of what does the Starting and Lighting System consist?_
+                                                    _Answer No. 117_
+
+ The starting and lighting system is of the two unit type and
+ consists of the starting motor, generator, storage battery,
+ ammeter, and lights, together with the necessary wiring and
+ connections.
+
+
+ _Where is the Starter located?_                    _Answer No. 118_
+
+ The starting motor is mounted on the left-hand side of the engine
+ and bolted to the transmission cover. When in operation the pinion
+ on the Bendix drive shaft engages with the teeth on the flywheel.
+
+
+ _What if the Engine fails to start?_               _Answer No. 119_
+
+ If the starting motor is turning the crank shaft over and the
+ engine fails to start, the trouble is not in the starting
+ system. In this event release the button at once so as not to
+ unnecessarily discharge the battery and inspect the carburetor and
+ ignition system to determine the trouble.
+
+
+ _What if the Starting Motor fails to act?_         _Answer No. 120_
+
+ If the starting motor fails to act, after pushing the button,
+ first inspect the terminal on the starting motor, the two
+ terminals on the battery and the two terminals on starting switch,
+ making sure all of the connections are tight; then examine the
+ wiring for a break in the insulation that would cause a short
+ circuit. If the wiring and connections are O. K. and the starting
+ motor fails to act, test the battery with a hydrometer. If the
+ hydrometer reading is less than 1.225 the trouble is no doubt due
+ to a weak or discharged battery.
+
+
+ _What if the driver steps on Starting Button when engine is
+ running?_                                          _Answer No. 121_
+
+ Should the driver accidentally step on the starting button while
+ the engine is running, no harm will result. The pinion merely
+ touches the revolving flywheel gear once and immediately rotates
+ with the threaded shaft out of contact with the flywheel, in
+ the same manner as when it has been disengaged by the engine's
+ starting.
+
+
+ _How is the Generator operated?_                   _Answer No. 122_
+
+ The generator is mounted on the right-hand side of the engine
+ and bolted to the cylinder front end cover. It is operated by
+ the pinion on the armature shaft engaging with the large time
+ gear. The charging rate of generator is set so as to cut in at
+ engine speeds corresponding to 10 miles per hour in high speed
+ and reaches a maximum charging rate at 20 miles per hour. At
+ higher speeds the charge will taper off, which is a settled
+ characteristic of a generator. This operation of cutting in and
+ cutting out at suitable speeds is accomplished by the cut-out,
+ which is mounted on the generator. This cut-out is set properly
+ at the factory and should not under any circumstances be tampered
+ with.
+
+ [Illustration: Wiring Diagram Cars Equipped with Starter. (Cut No.
+ 23)]
+
+
+ _What about Oiling?_                               _Answer No. 123_
+
+ The starting motor is lubricated by the Ford splash system, the
+ same as the engine and transmission. The generator is lubricated
+ by a splash of oil from the time gears. In addition an oil cup is
+ located at the end of the generator housing and a few drops of oil
+ should be applied occasionally.
+
+
+ _What should be done when repairing the Ignition?_ _Answer No. 124_
+
+ The introduction of a battery current into the magneto will
+ discharge the magnets and whenever working on the ignition system
+ or wiring do not fail to disconnect the positive wire from the
+ battery. The end of this wire should be wound with tape to prevent
+ its coming in contact with the terminal again.
+
+
+ _How does the Ammeter operate?_                    _Answer No. 125_
+
+ The ammeter is located on the instrument board. This indicator
+ registers "charge" when the generator is charging the battery and
+ "discharge" when the lights are burning and the engine not running
+ above 10 miles per hour. At an engine speed of 15 miles per hour
+ or more the ammeter should show a reading of from 10 to 12. If
+ the engine is running above 15 miles per hour and the ammeter
+ does not show a proper reading, first inspect the terminal posts
+ on the ammeter, making sure that the connections are tight, then
+ disconnect the wire from the terminal on generator, and with the
+ engine running at a moderate speed, take a pair of pliers or a
+ screw-driver and short-circuit the terminal stud on the generator
+ to the generator housing. If the generator is O. K., a good live
+ spark will be noted. (Do not run the engine any longer than is
+ necessary with the terminal wire disconnected.) Next inspect the
+ wiring from the generator through the ammeter, to the battery for
+ a break in the insulation that would result in a short-circuit. If
+ the trouble is not located, then remove the dust cap from the end
+ of generator and thoroughly clean the generator commutator, using
+ for this work a fine grade of sandpaper which has been slightly
+ oiled. With the motor running hold the sandpaper against the
+ commutator with the fingers until all dirt has been removed and a
+ bright surface attained.
+
+
+ _How are the Lights operated?_                     _Answer No. 126_
+
+ The lighting system consists of two headlights and a tail light
+ operated by a combination lighting and ignition switch located on
+ the instrument board. The headlamp bulbs are of 6-8 volt, double
+ filament type. The major filament is 18 candle-power, and the
+ minor filament is 23/4 candle-power. The small bulb used in the tail
+ light is of 6-8 volt, single contact, two candle-power type. All
+ of the lamps are connected in parallel so that the burning out or
+ removal of any one of them will not affect the other. Current for
+ the lamps is supplied by the battery. Do not connect the lights to
+ the magneto as it will result in burning out the bulbs and might
+ discharge the magnets. Cut No. 23 shows the different circuits and
+ the course of the current.
+
+
+ _What about repairing Starter and Generator_       _Answer No. 127_
+
+ If either the starter or generator fails to give proper service,
+ the owner should at once consult an authorized Ford dealer.
+ _Owners should not attempt to repair or adjust the mechanism of
+ the starter and generator._
+
+
+ _How is the Starter removed?_                      _Answer No. 128_
+
+ When removing the starter to replace transmission bands, or for
+ any other reason, first remove the engine pan on the left-hand
+ side of the engine and with a screw-driver remove the four small
+ screws holding the shaft cover to the transmission cover. Upon
+ removing cover and gasket, turn the Bendix drive shaft around
+ so that the set screw on the end of the shaft is at the top.
+ Immediately under the set screw is placed a lock washer, designed
+ with lips or extensions opposite each other. One of these is
+ turned against the collar and the other is turned up against the
+ side of the screw head. Bend back the lip which has been forced
+ against the screw and remove the set-screw. As the lock washer
+ will no doubt be broken or weakened in removing the starter, a new
+ one must be used when replacing it. Next, pull the Bendix assembly
+ out of the housing, being careful that the small key is not
+ misplaced nor lost. Remove the four screws which hold the starter
+ housing to the transmission cover, and pull out the starter,
+ taking same down through the chassis--this is why it was necessary
+ to remove the engine pan. Extreme care should be used in removing
+ the Bendix drive and other parts that none are misplaced nor lost
+ and that they are replaced in their former position. In replacing
+ the starter, be sure that the terminal connection is placed at
+ the top. If the car is to be operated with the starter removed,
+ be sure to put the transmission cover plates in position. These
+ plates may be obtained from the nearest dealer.
+
+
+ _How is the Bendix Drive assembled to the Starting Motor?_
+                                                     _Answer No. 129_
+
+ When assembling the Bendix Drive to the starting motor shaft, care
+ must be used to see that the stop nut or bearing which enters the
+ mounting bracket on the starting motor is not too tight; also
+ that the bearing is in proper alignment with the bracket. The
+ bearing should be oiled and then fitted so that it can be turned
+ readily with the fingers. If the bearing is too tight, it should
+ be dressed down with an oil stone. Too tight a fit will cause the
+ bearing to freeze to the bracket, resulting in serious damage to
+ the starter.
+
+
+ _How is the Generator removed?_                    _Answer No. 130_
+
+ If it is found necessary to remove the generator, first take
+ out the three cap screws holding it to the front end cover and
+ by placing the point of a screw-driver between the generator
+ and front end cover, the generator may be forced off the engine
+ assembly. Always start at the top of the generator and force it
+ backward and downward at the same time. Plates may be obtained
+ from the nearest dealer to place over the time gear if the car is
+ to be operated with the generator removed.
+
+
+ _What should be done when replacing the Generator?_
+                                                    _Answer No. 131_
+
+ When installing the generator, the drive pinion must be properly
+ meshed with the large time gear. The generator bracket, that is,
+ the section to which the generator is bolted is separate from the
+ cylinder block and the meshing of the generator driving pinion
+ with the large time gear can be regulated by the use of one or
+ more paper gaskets between the bracket and the cylinder block.
+ The bracket should rest tightly on the crankcase gasket and line
+ up with the face of the time gear case. If these gears are meshed
+ too tightly, a humming noise will result, also the generator shaft
+ will be thrown out of alignment.
+
+
+ _Can the Engine be run with the Generator disconnected from the
+ battery?_                                          _Answer No. 132_
+
+ If for any reason the engine is run with the generator
+ disconnected from the battery, as on a block test, or when
+ battery has been removed for repair or recharging, be sure that
+ the generator is grounded by running a wire from the terminal on
+ generator to one of the dust cover screws in the yoke. Two strands
+ of shipping tag wire may be used for this purpose. Be sure that
+ the connections at both ends of the wire are tight. Failure to do
+ this when running the engine with the generator disconnected from
+ the battery will result in serious injury to the generator. _Never
+ ground the generator through the cut-out._
+
+
+ _What type of Battery is used?_                    _Answer No. 133_
+
+ The Ford Starting System uses a six-volt, three-cell battery.
+
+
+ _How are Hydrometer Readings taken?_               _Answer No. 134_
+
+ [Illustration: Hydrometer Readings. (Cut No. 24)]
+
+ Hydrometer readings should be taken about every two weeks to make
+ sure that the generator is keeping the battery charged. To take
+ a hydrometer reading, remove the filling plugs (remove the plug
+ from only one cell at a time). Next, insert hydrometer syringe
+ in the filler tube and draw up enough of the solution to float
+ the glass bulb inside the instrument. The reading of the scale
+ at the surface of the liquid (see Cut No. 24) gives the strength
+ of the solution. Be sure to return the electrolyte to the cell
+ from which it was taken. Following is a list of the readings with
+ their indications. The readings in parentheses apply to batteries
+ used in tropical climates where water never freezes. Readings of
+ 1.275 (1.200) or more indicate a fully charged battery. Readings
+ of less than 1.225 (1.130) but more than 1.150 (1.080) indicate
+ complete discharge. Hydrometer tests taken immediately after
+ filling with water and before it has become thoroughly mixed
+ with the electrolyte will not show the true condition of the
+ battery. If the hydrometer reading shows the battery less than
+ one-half charged, it should be taken to the nearest authorized
+ Battery Service Station for recharging. Continued operation in
+ a less than half-charged condition is injurious to the battery
+ somewhat as running on a soft or deflated tire is injurious to the
+ tire. Before replacing the battery, the cause of the discharged
+ condition should be removed. It may be due to leaks or grounds
+ in the car wiring or to the electric system having gotten out
+ of adjustment so that the battery is not kept supplied with the
+ proper amount of current from the generator. If the reading in
+ one cell is more than 50 points different from the others, it
+ indicates that the cell is not in good order and the battery
+ should be taken to a skilled service man for attention.
+
+
+ _When should water be added to the Battery?_       _Answer No. 135_
+
+ Add nothing but pure water to the cells and do it often enough to
+ keep the plates covered at all times. The solution (electrolyte)
+ should be maintained at a level with the bottom of the filling
+ tube. Distilled water, melted artificial (but not natural) ice and
+ rain water, if obtained in the open country from a clean slate or
+ shingle-covered roof, are generally satisfactory. All water for
+ battery use should be kept in clean, covered vessels of glass,
+ china, earthenware, rubber or lead. In cold weather add water only
+ immediately before running the engine so that the charging will
+ mix the water and electrolyte, and avoid freezing. If, for any
+ reason, it is necessary to add acid, the battery should be taken
+ to an authorized Service Station.
+
+
+ _What care should be given the Filling Plugs and Connections?_
+                                                    _Answer No. 136_
+
+ Keep the filling plugs and connections tight and the top of the
+ battery clean. Wiping the battery with a rag moistened with
+ ammonia will counteract the effect of any of the solution which
+ may be on the outside of the battery. A coating of heavy oil or
+ vaseline will protect the connectors from corrosion. Keep the
+ battery firmly secured in position. If clamps are loose, the
+ battery will shift about in the compartment and result in loose
+ connections, broken cells and other trouble. If repairs are
+ necessary or if the car is to be laid up for the winter, take the
+ battery to a skilled service man for proper attention and storage.
+ Do not entrust the battery to inexperienced or unskilled hands.
+
+
+
+
+            Summary of Engine Troubles and Their Causes
+
+
+ ENGINE FAILS TO START
+
+ 1. Gas mixture too lean.
+
+ 2. Water in gasoline.
+
+ 3. Vibrators adjusted too close.
+
+ 4. Water or congealed oil in commutator.
+
+ 5. Magneto contact point (in trans. cover) obstructed with foreign
+ matter.
+
+ 6. Gasoline supply shut off.
+
+ 7. Carburetor frozen (in zero weather).
+
+ 8. Water frozen in gasoline tank sediment bulb.
+
+ 9. Coil switch off.
+
+
+ENGINE LACKS POWER--RUNS IRREGULARLY
+
+
+At Low Speeds.
+
+ 1. Poor compression--account leaky valves.
+
+ 2. Gas mixture too rich or too lean.
+
+ 3. Spark plugs dirty.
+
+ 4. Coil vibrator improperly adjusted.
+
+ 5. Air leak in intake manifold.
+
+ 6. Weak exhaust valve spring.
+
+ 7. Too great clearance between valve stem and push rod.
+
+ 8. Too close gap between spark plug points.
+
+
+At High Speeds.
+
+ 1. Commutator contact imperfect.
+
+ 2. Weak valve spring.
+
+ 3. Too much gap in spark plug.
+
+ 4. Imperfect gas mixture.
+
+ 5. Vibrator points dirty or burned.
+
+
+ENGINE STOPS SUDDENLY
+
+ 1. Gasoline tank empty.
+
+ 2. Water in gasoline.
+
+ 3. Flooded carburetor.
+
+ 4. Dirt in carburetor or feed pipe.
+
+ 5. Magneto wire loose at either terminal.
+
+ 6. Magneto contact point obstructed.
+
+ 7. Overheated--account lack of oil or water.
+
+ 8. Gas mixture too lean.
+
+
+ENGINE OVERHEATS
+
+ 1. Lack of water.
+
+ 2. Lack of oil.
+
+ 3. Fan belt torn, loose or slipping.
+
+ 4. Carbon deposit in combustion chamber.
+
+ 5. Spark retarded too far.
+
+ 6. Gas mixture too rich.
+
+ 7. Water circulation retarded by sediment in radiator.
+
+ 8. Dirty spark plugs.
+
+
+ENGINE KNOCKS
+
+ 1. Carbon deposit on piston heads.
+
+ 2. Loose connecting rod bearing.
+
+ 3. Loose crank shaft bearing.
+
+ 4. Spark advanced too far.
+
+ 5. Engine overheated.
+
+
+
+
+                               Index
+
+
+  CARE OF TIRES                                         Page
+
+    Care of Inner Tubes                                   48
+    Casings--How Repaired                                 48
+    How to Remove Tires                                   48
+    Repair Puncture                                       49
+
+  COOLING SYSTEM
+
+    Causes of Overheating                                 17
+    Purpose                                               17
+    Radiator Care in Winter                               19
+    Repairing Radiator                                    19
+    What to Do When Overheated                            17
+
+  ENGINE
+
+    Carbon--How Removed                                   14
+    Connecting Rod and Bearings                           15
+    Engine Fails to Start                                 61
+    Engine Lacks Power--Runs Irregularly                  61
+    Engine Stops Suddenly                                 61
+    Engine Overheats                                      61
+    Engine Knocks                                         61
+    Knocking--Causes                                      14
+    Main Bearing--How Adjusted                            16
+    Piston                                                 9
+    Power Plant--How Removed                              15
+    Valves                                                 9
+
+  GASOLINE SYSTEM
+
+    Carburetor--How to Adjust                             21
+    Carburetor--How Controlled                            21
+    Carburetor--Trouble                                   22
+    Carburetor--How it Works                              21
+
+  IGNITION SYSTEM
+
+    Coils                                                 25
+    Commutator--Its Purpose                               26
+    Magneto                                               25
+    Magneto Trouble                                       29
+    Spark Plugs                                           20
+    Where to Look for Trouble                             27
+
+  LUBRICATING SYSTEM
+
+    How it Differs from Others                            45
+    Kind of Oil to Use                                    45
+    To Fill "Dope" Cups                                   45
+
+  MAINTENANCE
+
+    Care of Top                                           50
+    Storing Cars                                          50
+    To Keep Car Clean                                     50
+
+  MUFFLER
+
+    What It Is For                                        39
+    How to Disconnect                                     39
+
+  OPERATION
+
+    Adjustments--What to Do                                5
+    Gasoline                                               3
+    Getting Ready to Start                                 3
+    Hand Lever                                             6
+    Oiling                                                 3
+    Slow Speed, Brake and Reverse                          6
+    Spark--How Controlled                                  7
+    Speed--How Controlled                                  7
+    Starting                                               5
+    Starting in Cold Weather                               6
+
+  REAR AXLE
+
+    Differential Gear--How Removed                        37
+    Rear Axle--How to Remove Parts                        37
+    Universal Joint--To Disconnect                        37
+
+  RUNNING GEAR
+
+    About Wheels                                          41
+    Care of Springs                                       43
+    Cups--How Installed                                   41
+    Its Care                                              40
+    Lubricating the Bearings                              43
+    Remove Front Axle                                     40
+    Roller Bearings--How Installed                        43
+    Steering Apparatus                                    44
+    Wheels                                                41
+
+  TRANSMISSION
+
+    Bands                                                 33
+    Clutch                                                31
+    Planetary Transmission--What Is It                    31
+    Transmission--How Assembled                           33
+
+ Model T Truck
+
+  Worm, How Removed                                       51
+  Lubricating the Differential                            51
+
+ The Ford Starting and Lighting System
+
+  Type of System                                          55
+  The Starting Motor--What if it Fails to Act             55
+  Oiling the Starter and Generator                        57
+  The Starter--How Removed                                58
+  The Bendix Drive--How Assembled to Starting Motor       58
+  The Generator--How Removed                              58
+  The Battery--Repairing and Recharging                   59
+
+
+
+
+                        TRANSCRIBER'S NOTE
+
+-Obvious print and punctuation errors fixed.
+
+-A Table of Contents was not in the original work; one has been
+produced and added by Transcriber.
+
+
+
+
+
+
+End of Project Gutenberg's Ford Manual (1919), by Ford Motor Company
+
+*** END OF THIS PROJECT GUTENBERG EBOOK FORD MANUAL (1919) ***
+
+***** This file should be named 46206.txt or 46206.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/6/2/0/46206/
+
+Produced by Giovanni Fini, Chris Curnow and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
