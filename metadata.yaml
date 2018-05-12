@@ -1,0 +1,25 @@
+_repo: Ford-Manual--1919-For-Owners-and-Operators-of-Ford-Cars-and-Trucks_46206
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46206-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ford Motor Company
+    alias: Company, Ford Motor
+    gutenberg_agent_id: '43657'
+    url: http://www.gutenberg.org/2009/agents/43657
+description: ''
+gutenberg_issued: '2014-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46206'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TL'
+- !lcsh 'Ford automobile -- Handbooks, manuals, etc.'
+title: Ford Manual for Owners and Operators of Ford Cars and Trucks (1919)
+url: http://www.gutenberg.org/ebooks/46206
